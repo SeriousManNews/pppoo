@@ -8,12 +8,11 @@ tags:
 - openwisp
 categories:
 - Metodi
-cover : "https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50-50.png"
+cover : "https://i.ibb.co/2q0HXXK/screenshot-www-tripadvisor-it-2018-12-14-07-02-20.png"
 draft: false
 ---
 
-        <a href="https://ibb.co/BGRNqwz"><img src="https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50-50.png" alt="screenshot-www-tripadvisor-it-2018-12-12-01-50-50" border="0"></a>
-
+        
 Ma sappiamo tutti che con la buona volontà qualcosa spunta fuori.
 
 Oggi andremo a scoprire un metodo semplicissimo per trovare lavoro in poco tempo.
@@ -37,9 +36,14 @@ Probabilmente avrete già sentito parlare di TripAdvisor.
 
 Solitamente da questo portale le persone prenotano viaggi, scrivono recensioni o semplicemente cercano il servizio che gli pare, dato che è facile ed intuitivo.
 Inoltre classifica tutti i ristoranti/alberghi di una determinata zona, questo è fondamentale perchè rende semplice la ricerca del lavoro.
+
+<font face="Verdana" size="2" color="red">
 Ma come si fa?
+</font>
+
 Basta schiacciare sul pulsante "dove vuoi andare", scegliendo la zona (dove vuoi andare a lavorare).
 
+<a href="https://ibb.co/BGRNqwz"><img src="https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50-50.png" alt="screenshot-www-tripadvisor-it-2018-12-12-01-50-50" border="0"></a>
 
 
 Ad esempio io ho scelto la mia zona di residenza ovvero Arco in Trentino.
