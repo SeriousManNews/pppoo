@@ -3,7 +3,6 @@ title: "Metodo: Come aggiungere foto su Instagram da PC."
 date: 2018-12-15
 tags:
 - Metodi
-- Instagram
 - Social Network
 categories:
 - Metodi
