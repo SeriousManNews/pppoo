@@ -7,7 +7,7 @@ tags:
 categories:
 - Metodi
 cover : "https://i.ibb.co/2q0HXXK/screenshot-www-tripadvisor-it-2018-12-14-07-02-20.png"
-draft: true
+draft: false
 ---
 
         
