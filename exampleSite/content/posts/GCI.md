@@ -7,7 +7,7 @@ tags:
 - google code in
 - openwisp
 categories:
-- blogging
+- calcio
 cover : "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/gci/gci-thumb.png"
 draft: false
 ---
