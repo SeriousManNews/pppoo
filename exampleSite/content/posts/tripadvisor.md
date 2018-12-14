@@ -1,6 +1,5 @@
 ---
 title: "Metodo: Trovare lavoro nel settore Alberghiero e della Ristorazione in poco tempo!"
-weight: 1
 date: 2018-12-14
 tags:
 - metodi
@@ -8,7 +7,7 @@ tags:
 categories:
 - Metodi
 cover : "https://i.ibb.co/2q0HXXK/screenshot-www-tripadvisor-it-2018-12-14-07-02-20.png"
-draft: false
+draft: true
 ---
 
         
