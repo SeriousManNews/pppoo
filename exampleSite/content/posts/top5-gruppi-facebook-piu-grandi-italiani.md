@@ -7,7 +7,7 @@ tags:
 - Classifica
 categories:
 - LeTop
-cover : "http://seriousman.altervista.org/wp-content/uploads/2018/12/Complicare-la-Vita-al-Tuo-Gruppo.jpg"
+cover : "https://i.ibb.co/KrHcW8v/687474703a2f2f736572696f75736d616e2e616c74657276697374612e6f72672f77702d636f6e74656e742f75706c6f6164732f323031382f31322f436f6d706c69636172652d6c612d566974612d616c2d54756f2d47727570706f2e6a7067.jpg"
 draft: false
 ---
 
