@@ -12,6 +12,7 @@ cover : "https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50
 draft: false
 ---
 
+[img]https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50-50.png[/img]
 <img src="https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50-50.png" alt="screenshot-www-tripadvisor-it-2018-12-12-01-50-50" border="0">
 
 Ma sappiamo tutti che con la buona volontà qualcosa spunta fuori.
