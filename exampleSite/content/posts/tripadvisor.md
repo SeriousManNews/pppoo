@@ -1,6 +1,6 @@
 ---
 title: "Metodo: Come trovare lavoro nel settore Alberghiero e della Ristorazione in poco tempo!"
-description : "Trovare un lavoro stabile di questi tempi non è semplice, complice la TV che mette terrore con termini come Spread al rialzo oppure Crisi nera."
+description : "Metodo provato e funzionante: Il segreto? TripAdvisor"
 weight: 1
 date: 14-12-2018
 tags:
@@ -24,7 +24,9 @@ Prima di tutto dovrai avere a portata di mano il tuo Curriculum Vitae in PDF (E'
 
 Esempio di Lettera di presentazione.
 
-Salve, sono un ragazzo di 22 anni molto socievole e estroverso alla ricerca di un impiego, recentemente ho cambiato numero di telefono: 3510567988. Ho esperienza come Operaio nello specifico in una segheria in Val di Ledro, come Cameriere di Sala in Inghilterra dove ho affinato il mio Inglese, Cameriere di Sala a Canazei all'Osteria da Besic dove ho imparato ad usare il palmare e come Aiuto Cuoco a "Il Panzerotto" di Milano (Spontini), come Aiuto Cuoco in Val di Fassa al'Hotel Monzoni***, come Cameriere di Sala all'Hotel Meida ***s e come Cameriere di Sala (Addetto alle colazioni) all'Hotel Anda**** sempre a Pozza di Fassa. L'ultima esperienza lavorativa è stata nel ristorante giapponese "Sushoku" come Lavapiatti/Aiuto Cuoco di Riva del Garda. L'Ultima esperienza lavorativa come cameriere l'ho conseguita al Sushiko del Centro Commerciale Blue Garden di Riva Del Garda. Ho molta voglia di imparare mansioni nuove e di fare nuove esperienza lavorative, sono puntuale e quando mi fisso un obiettivo lo porto sempre a termine con organizzazione.
+<blockquote>Salve, sono un ragazzo di 22 anni molto socievole e estroverso alla ricerca di un impiego, recentemente ho cambiato numero di telefono: 3510567988. Ho esperienza come Operaio nello specifico in una segheria in Val di Ledro, come Cameriere di Sala in Inghilterra dove ho affinato il mio Inglese, Cameriere di Sala a Canazei all'Osteria da Besic dove ho imparato ad usare il palmare e come Aiuto Cuoco a "Il Panzerotto" di Milano (Spontini), come Aiuto Cuoco in Val di Fassa al'Hotel Monzoni***, come Cameriere di Sala all'Hotel Meida ***s e come Cameriere di Sala (Addetto alle colazioni) all'Hotel Anda**** sempre a Pozza di Fassa. L'ultima esperienza lavorativa è stata nel ristorante giapponese "Sushoku" come Lavapiatti/Aiuto Cuoco di Riva del Garda. L'Ultima esperienza lavorativa come cameriere l'ho conseguita al Sushiko del Centro Commerciale Blue Garden di Riva Del Garda. Ho molta voglia di imparare mansioni nuove e di fare nuove esperienza lavorative, sono puntuale e quando mi fisso un obiettivo lo porto sempre a termine con organizzazione.
+<div dir="auto">In attesa di un Vostro gentile riscontro allego il mio curriculum vitae.</div>
+<div dir="auto">Cordiali Saluti.</div></blockquote>
 
 In attesa di un Vostro gentile riscontro allego il mio curriculum vitae.
 Cordiali Saluti.
