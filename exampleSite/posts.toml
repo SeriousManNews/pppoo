@@ -1,7 +1,7 @@
-baseURL = "http://dream-plus.netlify.com/"
+baseURL = "seriousman.it"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "UtkarshVerma's Blog"
+title = "SeriousMan"
 theme = "dream-plus"
 themesDir = "../../"   #Don't use this, only for netlify
 
@@ -17,8 +17,8 @@ enableRobotsTXT = true
 enableEmoji=true
 
 [params]
-	author = "Utkarsh Verma"
-	description = "Just a random blog for random stuff, mostly tech-related."
+	author = "SeriousMan"
+	description = "Guide utili-Contatti-Metodi e Tanto altro"
 	avatar = "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/myavatar.jpg"
 	motto = "A keen maker, programmer and an Instructables author."
 	enableToc = true
