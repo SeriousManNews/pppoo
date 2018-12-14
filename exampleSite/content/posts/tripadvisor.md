@@ -1,6 +1,5 @@
 ---
-title: "Trovare lavoro nel settore Alberghiero e della Ristorazione in poco tempo!"
-description : "Metodo provato e funzionante: Il segreto? TripAdvisor"
+title: "Metodo: Trovare lavoro nel settore Alberghiero e della Ristorazione in poco tempo!"
 weight: 1
 date: 2018-12-14
 tags:
