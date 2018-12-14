@@ -46,25 +46,31 @@ Basta schiacciare sul pulsante "dove vuoi andare", scegliendo la zona (dove vuoi
 
 Ad esempio io ho scelto la mia zona di residenza ovvero Arco in Trentino.
 
+<a href="https://ibb.co/thV6G35"><img src="https://i.ibb.co/hM3N6Cv/screenshot-www-tripadvisor-it-2018-12-12-01-54-04-1.png" alt="screenshot-www-tripadvisor-it-2018-12-12-01-54-04-1" border="0"></a>
 
 
 Ora dipende da voi se preferite Ristorazione o Alberghiero.
 
 Proviamo con Ristoranti: come vedete risultano una miriade di opportunità lavorative, infatti non è certo al 100% che tutti vi rispondano ma è una buona base da cui partire.
 
+<a href="https://ibb.co/FqMj35c"><img src="https://i.ibb.co/VpZP9gb/screenshot-www-tripadvisor-it-2018-12-12-01-56-35-1.png" alt="screenshot-www-tripadvisor-it-2018-12-12-01-56-35-1" border="0"></a>
 
 
-NOTA BENE: CON L'APPLICAZIONE DA CELLULARE LA RICERCA E' ANCORA PIU' FACILE ED INTUITIVA.
-NB2: NON TUTTI I RISTORANTI HANNO L'EMAIL COLLEGATA CON IL PROFILO TRIPADVISOR MA L'85% DEI CASI SI.
+<strong>NOTA BENE: CON L'APPLICAZIONE DA CELLULARE LA RICERCA E' ANCORA PIU' FACILE ED INTUITIVA.
+NB2: NON TUTTI I RISTORANTI HANNO L'EMAIL COLLEGATA CON IL PROFILO TRIPADVISOR MA L'85% DEI CASI SI.</strong>
 
 Esempio: Proviamo con il ristorante -Il Ritratto di Arco-
-Schiacciamo su Dettagli e comparirà l'email oltre al numero di telefono per un contatto diretto.
+Schiacciamo su <strong>Dettagli e comparirà l'email oltre al numero di telefono per un contatto diretto.</strong>
+
+<a href="https://ibb.co/J7Ftrxs"><img src="https://i.ibb.co/hW192Xm/download-1.png" alt="download-1" border="0"></a>
 
 Incollate la vostra lettera di presentazione, come oggetto scrivete: Autocandidatura oppure Candidatura come Cameriere e allegate il vostro Curriculum Vitae.
 
 E continuate così per tutti i ristoranti/alberghi della zona, in questo modo risparmierete tempo e risultati saranno garantiti!
 
 Lo stesso vale per l'applicazione da Cellulare.
+
+<a href="https://ibb.co/2kzKJ7g"><img src="https://i.ibb.co/mcnzpC6/screenshot-www-tripadvisor-it-2018-12-12-02-11-51-1.png" alt="screenshot-www-tripadvisor-it-2018-12-12-02-11-51-1" border="0"></a>
 
 
 Spero sia stata una guida esaustiva, lascia un bel mi piace e buona ricerca!
