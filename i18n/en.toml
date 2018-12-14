@@ -2,55 +2,55 @@
 other = "'s blog"
 
 [aboutHeader]
-other = "About"
+other = "Chi sono"
 
 [home]
 other = "Home"
 
 [showSidebar]
-other = "Show Sidebar"
+other = "Mostra barra"
 
 [rssFeed]
 other = "RSS Feed"
 
 [prevPage]
-other = "Previous page"
+other = "Pagina precedente"
 
 [nextPage]
-other = "Next page"
+other = "Pagina successiva"
 
 [flip]
-other = "About Me"
+other = "Chi sono"
 
 [clickToPopTagsAndCategories]
-other = "Click this to pop tags and categories"
+other = "Fai clic per mostrare tag e categorie"
 
 [updateAt]
-other = "Last updated on"
+other = "Ultimo aggiornamento il"
 
 [returnHome]
-other = "Return to Homepage"
+other = "Torna alla Homepage"
 
 [noTag]
 other = "No Tag"
 
 [archives]
-other = "Archive"
+other = "Archivio"
 
 [tag]
 one = "Tag"
 other = "{{ .Count }} tags"
 
 [category]
-one = "Category"
-other = "{{ .Count }} categories"
+one = "Categoria"
+other = "{{ .Count }} categorie"
 
 [allTags]
-other = "All Tags"
+other = "Tutti i tag"
 
 [allCategories]
-other = "All Categories"
+other = "Tutte le categorie"
 
 [article]
-one = "1 article"
-other = "{{ .Count }} articles"
+one = "1 articolo"
+other = "{{ .Count }} articoli"
