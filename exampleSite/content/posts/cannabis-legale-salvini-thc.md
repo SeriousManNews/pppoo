@@ -1,12 +1,12 @@
 ---
-title: "Cannabis legale: Stretta di Salvini, massimo 0.2% di THC"
+title: "Top 5 gruppi Facebook italiani più grandi."
 date: 2018-12-14
 tags:
-- News
-- Politica
+- LeTop
+- classifica
 categories:
-- News
-cover : "https://i.ibb.co/d0yxk00/The-Subtle-Benefits-of-CBD-1.jpg"
+- LeTop
+cover : "http://seriousman.altervista.org/wp-content/uploads/2018/12/Complicare-la-Vita-al-Tuo-Gruppo.jpg"
 draft: false
 ---
 C'è un grande alone di incertezza riguardo la cannabis legale.
