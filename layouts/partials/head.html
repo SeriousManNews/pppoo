@@ -13,7 +13,7 @@
 <!-- Site Generator -->
 {{ .Hugo.Generator }}
 <!--Setting Favicon-->
-<link rel="shortcut icon" href="{{ if $.Site.Params.favicon }}{{ $.Site.Params.favicon }}{{- else -}}/img/defaultFav.ico{{ end }}">
+<link rel='shortcut icon' type='image/x-icon' href='/defaultFav.ico' />
 <!-- Permalink & RSSlink -->
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
