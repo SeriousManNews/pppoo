@@ -6,7 +6,7 @@ tags:
 - contatti
 categories:
 - Metodi
-cover : "https://i.ibb.co/2q0HXXK/screenshot-www-tripadvisor-it-2018-12-14-07-02-20.png"
+cover : "https://i.ibb.co/vxFz3NV/Business-on-TA.jpg"
 draft: false
 ---
 
