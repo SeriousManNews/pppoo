@@ -37,9 +37,7 @@ Probabilmente avrete già sentito parlare di TripAdvisor.
 Solitamente da questo portale le persone prenotano viaggi, scrivono recensioni o semplicemente cercano il servizio che gli pare, dato che è facile ed intuitivo.
 Inoltre classifica tutti i ristoranti/alberghi di una determinata zona, questo è fondamentale perchè rende semplice la ricerca del lavoro.
 
-<font face="Verdana" size="5" color="red">
-Ma come si fa?
-</font>
+<strong>Ma come si fa?</strong>
 
 Basta schiacciare sul pulsante "dove vuoi andare", scegliendo la zona (dove vuoi andare a lavorare).
 
