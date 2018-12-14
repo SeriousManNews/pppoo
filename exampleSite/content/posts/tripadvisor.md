@@ -12,6 +12,8 @@ cover : "https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50
 draft: false
 ---
 
+<img src="https://i.ibb.co/2SBNg5n/screenshot-www-tripadvisor-it-2018-12-12-01-50-50.png" alt="screenshot-www-tripadvisor-it-2018-12-12-01-50-50" border="0">
+
 Ma sappiamo tutti che con la buona volontà qualcosa spunta fuori.
 
 Oggi andremo a scoprire un metodo semplicissimo per trovare lavoro in poco tempo.
