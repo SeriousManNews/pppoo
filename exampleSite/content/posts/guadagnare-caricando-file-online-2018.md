@@ -3,10 +3,9 @@ title: "Guadagnare caricando file online 2018."
 date: 2018-12-15
 tags:
 - Metodo
-- News
 - Guadagnare online
 categories:
-- News
+- Metodo
 cover : "https://i.ibb.co/wKtgMwp/upload-cloud-1.png"
 draft: false
 ---
