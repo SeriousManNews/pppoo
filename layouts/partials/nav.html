@@ -83,7 +83,12 @@
 {{ end }}
 	{{ if and (ne $.Site.Params.contentType "cards") ($.Scratch.Get "navRSS") }}
 	<div class="item right">
-		<a href="/posts/index.xml">
+		
+			 <div name=iframe style="width:100%; height:635px; border:2px solid grey; overflow:hidden">
+  <iframe src="http://yourchannel URL" style=width:100%; height:700px; margin-top: -65px" scrolling=true>
+     If you can see this, your browser doesn't support iframes. Click <a href=http://mychannel.url>here to
+     see my YouTube channel.</a>
+											 
 			<i class="inverted big link rss icon" title="{{ i18n `rssFeed` }}"></i>
 		</a>
 	</div>
