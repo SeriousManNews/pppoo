@@ -80,5 +80,12 @@
 		</div>
 		{{ end }}
 	{{ end }}
-	
+{{ end }}
+	{{ if and (ne $.Site.Params.contentType "cards") ($.Scratch.Get "navRSS") }}
+	<div class="item right">
+		<a href="/posts/index.xml">
+			<i class="inverted big link rss icon" title="{{ i18n `rssFeed` }}"></i>
+		</a>
+	</div>
+	{{ end }}
 </nav>
