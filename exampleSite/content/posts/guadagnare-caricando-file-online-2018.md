@@ -7,7 +7,7 @@ tags:
 - Guadagnare online
 categories:
 - News
-cover : "https://i.ibb.co/d0yxk00/The-Subtle-Benefits-of-CBD-1.jpg"
+cover : "https://i.ibb.co/wKtgMwp/upload-cloud-1.png"
 draft: false
 ---
 
