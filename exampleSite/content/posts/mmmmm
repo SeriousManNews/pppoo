@@ -50,9 +50,13 @@ Netlify è un servizio hosting assolutamente gratuito (se vuoi aver collegato so
 I pro:
 
 -Assolutamente gratuito se possiedi un dominio.
--Integrazione con HTTPS anch'esso gratuito!
+-Integra automaticamente il protocollo di sicurezza HTTPS anch'esso gratuito!
 -Compatibile con repostory (Li dove andremo a inserire i contenuti del nostro sito web) del calibro di: GitHub, Bitbucket e GitLab
 -Aggiornamento delle repostory in tempo reale (Se andiamo a modificare od aggiungere contenuti alla repostory, tempo 10 secondi e il sito web si aggiorna)
 
 Leggi anche: Come creare 
+
+
+
+
 
