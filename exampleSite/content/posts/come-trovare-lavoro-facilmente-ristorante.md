@@ -25,7 +25,7 @@ Esempio di Lettera di presentazione.
 <div dir="auto">In attesa di un Vostro gentile riscontro allego il mio curriculum vitae.</div>
 <div dir="auto">Cordiali Saluti.</div></blockquote>
 
-Esempio di Curriculum Vitae: <a href="https://www.file-upload.com/z7m79gopnzab"> Link download formato PDF </a>
+Esempio di Curriculum Vitae: <a href="http://sapolatsu.com/1Zsk"> Link download formato PDF </a>
 
 Ora passiamo alla pratica.
 Probabilmente avrete già sentito parlare di TripAdvisor.
