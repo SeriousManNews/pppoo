@@ -79,7 +79,7 @@ Come potete vedere dalla tabella le prime 3 guide sono totalmente gratuite!
 
 Come potete notare su Trustpilot ci sono solo notizie positive!
 
-<img src="https://i.ibb.co/3WW3BBG/Schermata-2018-09-19-alle-16-11-11.png" alt="Schermata-2018-09-19-alle-16-11-11" border="0">
+<img src="https://i.ibb.co/qRMMTfq/Schermata-2018-09-19-alle-14-57-50.png" alt="Schermata-2018-09-19-alle-14-57-50" border="0">
 
 QUI TROVIAMO IL VIDEO UFFICIALE:
 
