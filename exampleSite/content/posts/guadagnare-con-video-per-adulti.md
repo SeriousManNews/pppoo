@@ -109,7 +109,7 @@ Una volta effettuata la registrazione riceverete a casa la carta di credito con 
 
 Okay ora ci serve il dominio, e l’hosting ed ora vi mostro come averli gratuitamente!!
 
-Basta leggere la guida: <a href="https://seriousman.it/posts/come-aprire-sito-web-con-netlify/">Sito web gratis.</a>
+Consiglio vivamente: <a href="https://www.bluehost.com/track/seriousman/" target="_blank"> BLUEHOSTING </a>
 
 Prima cosa è necessario trovare un buon nome di dominio.
 Il dominio deve contenere ‘Cam‘ ‘Cams‘ ‘Webcam‘ ‘Webcams‘ all’interno del nome, per renderlo piccante e cosicchè l’il visitatore sia invogliato a navigarci, siate ingegnosi!
@@ -124,6 +124,10 @@ Di solito quanto scaricate i video sono chiamati “Tina is having sex for first
 Ecco noi invece dobbiamo cambiare nome al titolo, dobbiamo renderlo più “attraente” usiamo qualche titolo “fetish” ad esempio [Tina is having sex for first time] —> Lo chiameremo [Me and my stepdaughter] o qualcosa del genere, basta farvi un giro tra i video più famosi e vedere che titoli hanno.
 
 Ultimissimo punto, aggiungere il nostro dominio!!
+
+PS: CON <a href="https://www.bluehost.com/track/seriousman/" target="_blank">BLUEHOSTING</a> HAI SIA DOMINIO CHE HOSTING A UN BUON PREZZO!
+
+
 Per esempio:
 
 La mia figliastra in webcam – altri video su MYDOMAIN.com
