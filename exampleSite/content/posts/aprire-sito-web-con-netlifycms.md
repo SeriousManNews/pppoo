@@ -24,6 +24,8 @@ Ora passiamo al dunque.
 
 <strong>Cos'è Netlify CMS?</strong>
 
+<img src="https://i.ibb.co/M6W49kb/maxresdefault.jpg" alt="maxresdefault" border="0">
+
 Netlify CMS è un sistema di gestione dei contenuti open source per il flusso di lavoro Git.
 
 Consente di fornire agli editor un'interfaccia utente intuitiva e facile per chi non ha dimestichezza con i codici.
