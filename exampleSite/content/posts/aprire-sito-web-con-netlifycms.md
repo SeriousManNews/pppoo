@@ -36,7 +36,7 @@ Questo vuol dire che per creare testi nuovi o per modificarli non devi andare pe
 
 <strong>Come iniziare</strong>
 
-Vai su <a href="https://www.netlifycms.org/>Netlify CMS</a> e schiaccia su GET STARTED.
+Vai su <a href="https://www.netlifycms.org/">Netlify CMS</a> e schiaccia su GET STARTED.
 
 Ci sono due opzioni:
 
