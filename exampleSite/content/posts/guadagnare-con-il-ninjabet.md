@@ -9,11 +9,7 @@ categories:
 cover : "https://i.ibb.co/0F08tyt/site-logo.png"
 draft: false
 ---
--ATTENZIONE C'E' IL RISCHIO DI PERDITA, QUASI MINIMO MA ESISTE QUESTA POSSIBILIA-
-
-Siamo arrivati alla parte più succosa del blog probabilmente.
-
-Questo probabilmente è il metodo più tattico dell'intero web.
+-ATTENZIONE C'E' IL RISCHIO DI PERDITA-
 
 <strong>DI COSA STIAMO PARLANDO?</strong>
 
@@ -25,17 +21,22 @@ Ne avete mai sentito parlare? Se no, non preoccupatevi oggi andremo ad analizzar
 
 Di cosa si tratta questa tecnica?
 
-Il Matched Betting (O mangia bonus) si tratta di un sistema matematico che c'entra con le scommesse sportive.
+<strong> COS'E' NINJABET?</strong>
+
+Ninjabet è un sistema nato nel 2015, sviluppato da Claudio Abitante e Mariana Babaian, che hanno allargao il loro servizio a Spagna e Inghilterra.
 
 Si tratta di gioco di azzardo? <strong>ASSOLUTAMENTE NO</strong>
 
-In pratica, andiamo a sfruttare i bonus di benvenuto(anche ricorrenti) che ci vengono regalati dai bookmaker(i siti di scommesse ad es: Bwin/Sisal) ad una NUOVA iscrizione.
+E' un servizio volto a chi vuole fare scommesse online ed in particolare utilizzando il Matched Betting, e quindi trasformare i bonus che i siti di scommesse offrono in soldi veri e piazzando scommesse su tutti i possibili risultati di una partita di calcio per esempio.
 
 <a href="https://www.ninjabet.it/74323/aff"><img src="https://i.ibb.co/0F08tyt/site-logo.png" alt="site-logo" border="0"></a>
 
-Ma torniamo a noi come funziona il sistema? 
+Ma torniamo a noi come funziona NinjaBet? 
 
-Il Matched Betting è un sistema matematica che annulla il rischio sulla scommessa, infatti grazie a NinjaBet e a tutti i Ninja del Forum troveremo sempre le combinazioni giuste da fare.
+Il servizio <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a> offre due strumenti utili:
+
+-Oddsmatcher e Dutcher: Permette di avere un quadro completo di tutte le quote sul mercato disponibili, con oltre 30 siti + 2 Exchanger Betflag e Betfair.
+-Punta-Banca e Punta-Punta: Con questo piccolo tool NinjaBet ci calcola quanto dobbiamo scommettere e il guadagno sulla scommessa.
 
 Ad es: Partita Italia-Spagna ----> Grazie a <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a> ci indicherà dove poter <strong>PUNTARE</strong> e dove poter <strong>BANCARE</strong>, per avere la sicurezza matematica al fine di ricevere il nostro Bonus, che poi convertiremo in saldo prelevabile!
 
@@ -43,29 +44,42 @@ Ad es: Partita Italia-Spagna ----> Grazie a <a href="https://www.ninjabet.it/743
 
 No perchè come nella partita di esempio, sia Che l'Italia vinca sia che pareggia/perda grazie al Punta/Banca riceveremo il nostro bonus.
 
-<strong> Dove si punta e dove si banca? </strong>
-
-Semplice te lo consiglia <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a> in tempo reale!
-
 Il bookmaker William Hill, ad esempio, offre 50€ bonus alla registrazione come nuovo utente, grazie a questa tecnica e seguendo le istruzioni di <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a> riuscirai a sbloccarlo!
+
+<strong>I RISCHI DI QUESTO SISTEMA</strong>
+
+Nella vita niente è sicuro al 100%.
+E il Matched Betting, nonostante se ne parli come un attività sicura, non scappa da questa regola.
+
+Anche se la strategia è matematica ci sono vari fattori da considerare, oltre al fatto che si può sbagliare in ogni momento se non si seguono attentamente le guide di <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a>, poi c'è sempre il rischio di un cambio di quota improvviso (IL CHE TI FA PERDERE MOLTI SOLDI).
+Poi la variante che se la piattaforma che usiamo potrebbe chiudere l'account senza dare preavviso.
+ATTENZIONE: MOLTO IMPORTANTE, NESSUNO TI STA PROMETTENDO GUADAGNI IMMENSI IN POCO TEMPO.
 
 <strong> MA QUANTO COSTA IL SERVIZIO? <strong>
 
 NinjaBet da la fantastica opportunità di avere il servizio con annesso accesso al forum dedicato gratuitamente per le prime due offerte benvenuto!
 
-Sono circa 30€ a quel punto sta a te decidere se rinnovare il servizio e sbloccare tutte le offerte.
+<img src="https://i.ibb.co/M53xNfP/Schermata-2018-09-19-alle-14-35-22-1024x349.png" alt="Schermata-2018-09-19-alle-14-35-22-1024x349" border="0">
 
-Il prezzo del rinnovo è di 19.99€ al mese che praticamente te li regalano loro!
+Come potete vedere dalla tabella le prime 3 guide sono totalmente gratuite!
 
-<strong> QUANTO CAPITALE MI SERVE PER INIZIARE? </strong>
+<strong>SERVIZI OFFERTI DA NINJABET</strong>
 
-Per completare la prima offerta servono circa 5€ e per la seconda circa 10€
+-Guide sul funzionamento del matched betting;
 
-Una volta fatta la prima si può aspettare e reinvestirli per fare la seconda e cosi via fino ad arrivare punti interessanti. 
+-Guida ai bonus benevenuto (La parte più importante.)
 
-Ovviamente una volta fatte tutte le offerte benvenuto non si toccheranno più questi numeri.
+-Guide aggiornate sulle ultime offerte sul mercato ;
 
-Grande aiuto in questo senso lo da il forum, dove ci sono gli utenti che condividono in tempi brevi tutte le offerte del momento.
+-Notifiche in tempo reale via Telegram o sito web;
+
+-Forum Ninjaclub 
+
+<strong> Recensioni sul web di NinjaBet</strong>
+
+Come potete notare su Trustpilot ci sono solo notizie positive!
+
+<img src="https://i.ibb.co/3WW3BBG/Schermata-2018-09-19-alle-16-11-11.png" alt="Schermata-2018-09-19-alle-16-11-11" border="0">
 
 QUI TROVIAMO IL VIDEO UFFICIALE:
 
