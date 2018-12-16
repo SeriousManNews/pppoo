@@ -1,5 +1,5 @@
 ---
-title: "Guadagnare fino a 2000€ al mese con NinjaBet"
+title: "Guadagnare online con NinjaBet"
 date: 2018-12-16
 tags:
 - News
