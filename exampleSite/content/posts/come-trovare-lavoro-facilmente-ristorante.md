@@ -1,5 +1,5 @@
 ---
-title: "Metodo: Trovare lavoro nel settore Alberghiero e della Ristorazione in poco tempo!"
+title: "Metodo: Trovare lavoro nel settore Alberghiero/Ristorazione in poco tempo!"
 date: 2018-12-14
 tags:
 - metodi
