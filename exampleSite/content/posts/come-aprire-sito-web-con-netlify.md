@@ -25,7 +25,7 @@ Ma torniamo a noi.
 
 Per questo metodo ci servirà in primis un dominio.
 
-Io consiglio Register.it
+Io consiglio <a href="https://www.register.it">Register</a>
 
 <img src="https://i.ibb.co/Yf9Tmmg/screenshot-www-register-it-2018-12-15-17-53-21.png" alt="screenshot-www-register-it-2018-12-15-17-53-21" border="0">
 
@@ -72,7 +72,7 @@ Poi andate su DNS settings per completare il cambio indirizzo.
 
 <img src="https://i.ibb.co/wNvs9Rs/2.png" alt="2" border="0">
 
-Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it"> Register</a> (il nostro domain provider) a quello di Netlify.
+Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it">Register</a> (il nostro domain provider) a quello di Netlify.
 
 Basta prendere i nameserver da Netlify come in foto ad es: dns1.p01.nsone.net
 
@@ -80,7 +80,7 @@ Andare su <a href="https://www.nexcess.net/resources/tools/global-dns-checker/">
 
 <img src="https://i.ibb.co/WcDtYfC/3.png" alt="3" border="0">
 
-Ora andiamo su <a href="https://www.register.it"> Register <a/> Nella sezione Area Clienti.
+Ora andiamo su <a href="https://www.register.it/">Register</a> Nella sezione Area Clienti.
 
 Facciamo clic sul nostro sito web appena registrato e poi su Dominio e DNS
 
