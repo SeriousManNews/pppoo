@@ -1,13 +1,12 @@
 ---
-title: "Come aprire il tuo sito web con Netlify CMS! "
+title: "Guadagnare con video per adulti "
 date: 2018-12-16
 tags:
-- News
 - Metodi
 - Netlify
 categories:
 - Metodi
-cover : "https://i.ibb.co/M6W49kb/maxresdefault.jpg"
+cover : "https://i.ibb.co/Jzy9Zth/29243e9.jpg"
 draft: false
 ---
 
