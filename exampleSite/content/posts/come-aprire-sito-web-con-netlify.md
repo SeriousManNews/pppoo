@@ -72,11 +72,11 @@ Poi andate su DNS settings per completare il cambio indirizzo.
 
 <img src="https://i.ibb.co/wNvs9Rs/2.png" alt="2" border="0">
 
-Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it"> Register<a/> (il nostro domain provider) a quello di Netlify.
+Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it"> Register</a> (il nostro domain provider) a quello di Netlify.
 
 Basta prendere i nameserver da Netlify come in foto ad es: dns1.p01.nsone.net
 
-Andare su <a href="https://www.nexcess.net/resources/tools/global-dns-checker/">DNSchecker<a/> immettere il nostro DNS e vedere l'IP relativo.
+Andare su <a href="https://www.nexcess.net/resources/tools/global-dns-checker/">DNSchecker</a> immettere il nostro DNS e vedere l'IP relativo.
 
 <img src="https://i.ibb.co/WcDtYfC/3.png" alt="3" border="0">
 
