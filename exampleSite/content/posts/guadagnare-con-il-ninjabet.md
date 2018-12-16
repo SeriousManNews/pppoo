@@ -1,5 +1,5 @@
 ---
-title: "Guadagnare online con NinjaBet"
+title: "Vuoi diventare un Ninja?"
 date: 2018-12-16
 tags:
 - News
@@ -18,7 +18,8 @@ Questo probabilmente è il metodo più facile/redditizzio dell'intero web.
 
 Semplice di Matched Betting e più in dettaglio di <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a>
 
-<img src="https://i.ibb.co/7pbGCxG/maxresdefault-1.jpg" alt="maxresdefault-1" border="0">
+<img src="https://i.ibb.co/7pbGCxG/maxresdefault-1.jpg">
+
 Ne avete mai sentito parlare? Se no, non preoccupatevi oggi andremo ad analizzare tutti i PRO e CONTRO (pochi).
 
 Di cosa si tratta questa tecnica?
