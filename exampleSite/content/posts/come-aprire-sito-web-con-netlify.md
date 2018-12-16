@@ -93,6 +93,7 @@ Ora arriva la parte importante.
 Schiacciamo su "Avvia l'operazione di cambio DNS"
 
 Per ogni dns di Netlify ad es: dns1.p01.nsone.net dobbiamo associare l'IP che abbiamo trovato ad es: 198.51.44.1
+
 Immetterli negli spazi appositi, infatti ce ne sono 4 diversi da mettere come vedete qui.
 
 <img src="https://i.ibb.co/wNvs9Rs/2.png" alt="2" border="0">
