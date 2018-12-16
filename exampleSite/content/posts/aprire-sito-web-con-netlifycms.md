@@ -18,7 +18,7 @@ Partiamo dal presupposto che hai già un dominio.
 
 Se non ce l'hai segui questa guida, dove spiego come avere un dominio per 1 anno a soli 2 centesimi!
 
-Leggi: <a href:"https://seriousman.it/posts/come-aprire-sito-web-con-netlify/">Aprire un sito web con 2 centesimi</a>
+Leggi: <a href="https://seriousman.it/posts/come-aprire-sito-web-con-netlify/">Aprire un sito web con 2 centesimi</a>
 
 Ora passiamo al dunque.
 
