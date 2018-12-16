@@ -36,6 +36,7 @@ Ma torniamo a noi come funziona NinjaBet?
 Il servizio <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a> offre due strumenti utili:
 
 -Oddsmatcher e Dutcher: Permette di avere un quadro completo di tutte le quote sul mercato disponibili, con oltre 30 siti + 2 Exchanger Betflag e Betfair.
+
 -Punta-Banca e Punta-Punta: Con questo piccolo tool NinjaBet ci calcola quanto dobbiamo scommettere e il guadagno sulla scommessa.
 
 Ad es: Partita Italia-Spagna ----> Grazie a <a href="https://www.ninjabet.it/74323/aff">Ninjabet</a> ci indicherà dove poter <strong>PUNTARE</strong> e dove poter <strong>BANCARE</strong>, per avere la sicurezza matematica al fine di ricevere il nostro Bonus, che poi convertiremo in saldo prelevabile!
