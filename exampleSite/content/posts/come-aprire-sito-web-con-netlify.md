@@ -51,14 +51,17 @@ se hai una repostory (il sito web in se) con due click puoi andare a renderlo on
 I pro:
 
 -Assolutamente gratuito se possiedi un dominio.
+
 -Integra automaticamente il protocollo di sicurezza HTTPS anch'esso gratuito!
+
 -Compatibile con repostory (Li dove andremo a inserire i contenuti del nostro sito web) del calibro di: GitHub, Bitbucket e GitLab
+
 -Aggiornamento delle repostory in tempo reale (Se andiamo a modificare od aggiungere contenuti alla repostory, tempo 10 secondi e il sito web si aggiorna)
 
 Leggi anche: Come creare 
 
 Precisazione.
-Se hai una repostory creata con GitHub, Bitbucke o GitLab basta andare su <a href="https://www.netlify.com/> Netlify </a> e caricare il vostro sito web.
+Se hai una repostory creata con GitHub, Bitbucke o GitLab basta andare su <a href="https://www.netlify.com/"> Netlify</a> e caricare il vostro sito web.
 
 <img src="https://i.ibb.co/hXgMgRk/Untitled.png" alt="Untitled" border="0">
 
@@ -69,11 +72,11 @@ Poi andate su DNS settings per completare il cambio indirizzo.
 
 <img src="https://i.ibb.co/wNvs9Rs/2.png" alt="2" border="0">
 
-Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it"> Register <a/> (il nostro domain provider) a quello di Netlify.
+Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it"> Register<a/> (il nostro domain provider) a quello di Netlify.
 
 Basta prendere i nameserver da Netlify come in foto ad es: dns1.p01.nsone.net
 
-Andare su <a href="https://www.nexcess.net/resources/tools/global-dns-checker/> DNSchecker <a/> immettere il nostro DNS e vedere l'IP relativo.
+Andare su <a href="https://www.nexcess.net/resources/tools/global-dns-checker/">DNSchecker<a/> immettere il nostro DNS e vedere l'IP relativo.
 
 <img src="https://i.ibb.co/WcDtYfC/3.png" alt="3" border="0">
 
