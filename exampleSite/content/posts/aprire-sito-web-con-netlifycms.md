@@ -7,7 +7,7 @@ tags:
 - Netlify
 categories:
 - Metodi
-cover :"https://i.ibb.co/M6W49kb/maxresdefault.jpg"
+cover : "https://i.ibb.co/M6W49kb/maxresdefault.jpg"
 draft: false
 ---
 Vuoi aprire un nuovo sito web oppure un blog gratuitamente?
