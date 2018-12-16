@@ -10,7 +10,6 @@ categories:
 cover :"https://i.ibb.co/M6W49kb/maxresdefault.jpg"
 draft: false
 ---
-
 Vuoi aprire un nuovo sito web oppure un blog gratuitamente?
 
 Non sei tanto esperto con HTML e codici in generale?
