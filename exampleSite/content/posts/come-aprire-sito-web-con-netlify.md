@@ -58,7 +58,7 @@ I pro:
 
 -Aggiornamento delle repostory in tempo reale (Se andiamo a modificare od aggiungere contenuti alla repostory, tempo 10 secondi e il sito web si aggiorna)
 
-Leggi anche: Come creare 
+Se non hai un sito: <a href="https://seriousman.it/posts/aprire-sito-web-con-netlifycms/">Come aprire un sito web con netlifyCMS</a>
 
 Precisazione.
 Se hai una repostory creata con GitHub, Bitbucke o GitLab basta andare su <a href="https://www.netlify.com/"> Netlify</a> e caricare il vostro sito web.
