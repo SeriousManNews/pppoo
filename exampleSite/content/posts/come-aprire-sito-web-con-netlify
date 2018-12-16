@@ -3,11 +3,11 @@ title: "Come aprire il tuo sito web con soli 2 centesimi! "
 date: 2018-12-14
 tags:
 - News
-- Cannabis
-- Politica
+- Metodi
+- Netlify
 categories:
-- News
-cover : "https://i.ibb.co/d0yxk00/The-Subtle-Benefits-of-CBD-1.jpg"
+- Metodi
+cover : "https://i.ibb.co/1sZKvX2/netlify-logo.png"
 draft: false
 ---
 
@@ -45,7 +45,8 @@ E' di vitale importanza, perchè senza questo servizio non sarà possibile mostr
 
 Il servizio che consiglio (ce ne sono una marea) si chiama <strong> Netlify </strong>.
 
-Netlify è un servizio hosting assolutamente gratuito (se vuoi aver collegato solo 1 dominio), è un progetto relativamente nuovo in continua evoluzione.
+Netlify è un servizio hosting open source assolutamente gratuito (se vuoi aver collegato solo 1 dominio), è un progetto relativamente nuovo in continua evoluzione, in pratica
+se hai una repostory (il sito web in se) con due click puoi andare a renderlo online.
 
 I pro:
 
@@ -55,6 +56,49 @@ I pro:
 -Aggiornamento delle repostory in tempo reale (Se andiamo a modificare od aggiungere contenuti alla repostory, tempo 10 secondi e il sito web si aggiorna)
 
 Leggi anche: Come creare 
+
+Precisazione.
+Se hai una repostory creata con GitHub, Bitbucke o GitLab basta andare su <a href="https://www.netlify.com/> Netlify </a> e caricare il vostro sito web.
+
+<img src="https://i.ibb.co/hXgMgRk/Untitled.png" alt="Untitled" border="0">
+
+Una volta caricato dovrete cambiare il dominio da esempio.netlify.it a esempio.it
+Andate su Add o register domain e seguite la procedura.
+
+Poi andate su DNS settings per completare il cambio indirizzo.
+
+<img src="https://i.ibb.co/wNvs9Rs/2.png" alt="2" border="0">
+
+Adesso dobbiamo cambiare Nameservers da <a href="https://www.register.it"> Register <a/> (il nostro domain provider) a quello di Netlify.
+
+Basta prendere i nameserver da Netlify come in foto ad es: dns1.p01.nsone.net
+
+Andare su <a href="https://www.nexcess.net/resources/tools/global-dns-checker/> DNSchecker <a/> immettere il nostro DNS e vedere l'IP relativo.
+
+<img src="https://i.ibb.co/WcDtYfC/3.png" alt="3" border="0">
+
+Ora andiamo su <a href="https://www.register.it"> Register <a/> Nella sezione Area Clienti.
+
+Facciamo clic sul nostro sito web appena registrato e poi su Dominio e DNS
+
+<img src="https://i.ibb.co/jLCdxHP/4.png" alt="4" border="0">
+
+Poi schiacciamo su Configurazione DNS.
+
+Ora arriva la parte importante.
+
+Schiacciamo su "Avvia l'operazione di cambio DNS"
+
+Per ogni dns di Netlify ad es: dns1.p01.nsone.net dobbiamo associare l'IP che abbiamo trovato ad es: 198.51.44.1
+Immetterli negli spazi appositi, infatti ce ne sono 4 diversi da mettere come vedete qui.
+
+<img src="https://i.ibb.co/wNvs9Rs/2.png" alt="2" border="0">
+
+Per tutti i dns dobbbiamo cercare l'IP corrispondete e metterlo nella sezione richiesta.
+
+Di solito ci mette 24 ore prima che il tuo sito web esempio.netlify.com diventi esempio.it
+
+Una volta fatta questa modifica il vostro sito web sarà pronto.
 
 
 
