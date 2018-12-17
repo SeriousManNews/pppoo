@@ -52,3 +52,5 @@ Seguire la procedura et voilà, con due click hai il template del tuo nuovo sito
 
 Basta seguire la proceura che per ogni template desiderato.
 
+
+<a href="https://ultimatetradingrobot.com/?hop=seriousnew"><img src="https://i.ibb.co/SKf0m2Z/FUT-Millionaire-FIFA-19-Auto-Buyer-Auto-Bidder-Trading-Bots-Review-e1538520389985.jpg" alt="FUT-Millionaire-FIFA-19-Auto-Buyer-Auto-Bidder-Trading-Bots-Review-e1538520389985" border="0"></a>
