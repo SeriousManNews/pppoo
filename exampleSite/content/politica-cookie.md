@@ -1,3 +1,7 @@
+<h1>Politica Cookie</h1>
+
+----
+
 COSA SONO I COOKIE?
 
 I “cookie” sono piccole etichette software che vengono memorizzate sul tuo computer tramite il browser, 
