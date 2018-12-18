@@ -115,7 +115,7 @@ In tutti questi casi è la parte attiva che fa il lavoro, se invece devi ricever
 
 -Dati anagrafici
 
-- <strong> Indirizzo telematico </strong>
+<strong> - Indirizzo telematico </strong>
 
 <strong> 10 Devo conservare la fattura? </strong>
 
