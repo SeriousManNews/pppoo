@@ -1,6 +1,6 @@
 ---
 title: "NinjaBet Recensione Completa 2018"
-date: 2018-12-16
+date: 2018-12-18
 tags:
 - News
 - Metodi
