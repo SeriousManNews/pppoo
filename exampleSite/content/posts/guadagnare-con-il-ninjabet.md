@@ -7,7 +7,7 @@ tags:
 categories:
 - Metodi
 cover : "https://i.ibb.co/0F08tyt/site-logo.png"
-draft: false
+draft: true
 ---
 -ATTENZIONE C'E' IL RISCHIO DI PERDITA-
 
