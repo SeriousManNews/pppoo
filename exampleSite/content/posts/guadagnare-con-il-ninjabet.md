@@ -1,13 +1,13 @@
 ---
 title: "NinjaBet Recensione Completa 2018"
-date: 2018-12-18
+date: 2018-12-17
 tags:
 - News
 - Metodi
 categories:
 - Metodi
 cover : "https://i.ibb.co/0F08tyt/site-logo.png"
-draft: true
+draft: false
 ---
 -ATTENZIONE C'E' IL RISCHIO DI PERDITA-
 
