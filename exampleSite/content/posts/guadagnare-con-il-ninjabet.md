@@ -6,7 +6,7 @@ tags:
 - Metodi
 categories:
 - Metodi
-cover : "https://i.ibb.co/0F08tyt/site-logo.png"
+cover : "https://i.ibb.co/7pbGCxG/maxresdefault-1.jpg"
 draft: false
 ---
 -ATTENZIONE C'E' IL RISCHIO DI PERDITA-
