@@ -11,7 +11,7 @@ cover : "https://i.ibb.co/1sZKvX2/netlify-logo.png"
 draft: false
 ---
 
-Oggi andremo a scoprire come aprire il tuo sito web con soli 2 centesemi, hai capito bene.
+Oggi andremo a scoprire come aprire il tuo sito web con soli 2 centesemi usando Netlify, questa è la recensione Italiana del 2018.
 Premessa: Il dominio vale 1 un anno dopo dovrai rinnovarlo al prezzo concordato, ma intanto per 1 anno avrai lo spazio web con il dominio che preferisci.
 
 Se hai un'attività da lanciare o semplicemente vuoi aprire un blog, questa è la soluzione ideale, ma un pochino complessa.
