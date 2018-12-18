@@ -3,11 +3,9 @@ title: "Fattura elettronica obbligatoria 2019: Spiegata in 10 punti"
 date: 2018-12-18
 tags:
 - News
-- Metodi
-- Netlify
 categories:
-- Metodi
-cover : "https://i.ibb.co/M6W49kb/maxresdefault.jpg"
+- News
+cover : "https://i.ibb.co/wdGxy96/fattura-elettronica-2018.jpg"
 draft: false
 ---
 
@@ -49,6 +47,8 @@ L'obbligo è stato redatto con la Legge di Stabilità del 2018 e indica che vale
 
 Come potete notare in tutti e due i casi è obbligatoria, il che non è una novità assoluta per chi lavora con la pubblica amministrazione.
 
+<img src="https://i.ibb.co/61QNsmP/fatturazione-elettronica.jpg" alt="fatturazione-elettronica" border="0">
+
 <strong> 3 Per chi vale? </strong>
 
 La regola in linea di massima vale per tutti, tranne in questi casi dove sono esonerati dall'obbligo:
@@ -72,6 +72,10 @@ L'operazione è la stessa che fate per la fattura cartecia, ma per favorire il p
 <strong> 5 Che multe si rischiano? </strong>
 
 Le sanzioni sono le stesse previste per il modello cartaceo, il modello di riferimento è lo stesso (471 del 1997), ma appunto per il primo periodo di transizione le multe possono scalare fino ad 1/5 della pena se non si redige le fatture elettronice entro il termine di liquidazione (mensile o trimestrale).
+
+Mal di testa? Tranquillo!
+
+<img src="https://i.ibb.co/VvWM7hk/mal-di-testa-da-stress-opt.jpg" alt="mal-di-testa-da-stress-opt" border="0">
 
 <strong> 6 Come si invia? </strong>
 
