@@ -1,5 +1,5 @@
 ---
-title: "Vuoi diventare un Ninja?"
+title: "NinjaBet Recensione Completa 2018"
 date: 2018-12-16
 tags:
 - News
