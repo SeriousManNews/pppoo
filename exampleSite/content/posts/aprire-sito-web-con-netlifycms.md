@@ -1,5 +1,5 @@
 ---
-title: "Come aprire il tuo sito web con Netlify CMS! "
+title: "Come aprire il tuo sito web con Netlify CMS! 2018 "
 date: 2018-12-16
 tags:
 - News
@@ -10,6 +10,8 @@ categories:
 cover : "https://i.ibb.co/M6W49kb/maxresdefault.jpg"
 draft: false
 ---
+Questa è la recensione Italiana di Netlify CMS 2018.
+
 Vuoi aprire un nuovo sito web oppure un blog gratuitamente?
 
 Non sei tanto esperto con HTML e codici in generale?
