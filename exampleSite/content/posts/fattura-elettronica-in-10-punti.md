@@ -5,7 +5,7 @@ tags:
 - News
 categories:
 - News
-cover : "https://i.ibb.co/wdGxy96/fattura-elettronica-2018.jpg"
+cover : "https://i.ibb.co/G2sV3qv/1527649514-velocizzare-pc.png"
 draft: false
 ---
 
