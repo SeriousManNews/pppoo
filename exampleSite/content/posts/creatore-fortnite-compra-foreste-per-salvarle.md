@@ -17,6 +17,8 @@ Sweeney è meglio conosciuto per aver fondato il video e la società di software
 
 Epic Games ci ha regalato titoli di videogiochi popolari come Unreal Tournament, Gears of War e, più recentemente, il famoso gioco Fortnite. 
 
+<img src="https://i.ibb.co/Jm4zNT4/objects-health-decrease-epic-explanation-fortnite.jpg" alt="objects-health-decrease-epic-explanation-fortnite" border="0">
+
 Oltre a questi titoli di gioco popolari, il filantropo miliardario ha fatto bene alla sua promessa di proteggere la terra non sviluppata e biodiversa nelle pittoresche montagne della Carolina occidentale per le generazioni future.
 
 Dal 2008, Sweeney ha speso milioni in progetti di conservazione nel suo stato natio della Carolina del Nord per proteggere e preservare la sua terra forestale. 
