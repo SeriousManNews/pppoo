@@ -83,7 +83,7 @@ Cosa diavolo è CrakRevenue?
 
 IN PRATICA SONO I NOSTRI DATORI DI LAVORO!
 
-<a href="http://turboagram.com/4dYK">Crakrevenue.com</a> è probabilmente il miglior sito sul web per quanto riguarda le affiliazioni per siti per adulti! Ci sono centinaia di offerte e tutte BEN PAGANTI!
+<a href="https://affiliates.crakrevenue.com/access/create-account?r=44289">Crakrevenue.com</a> è probabilmente il miglior sito sul web per quanto riguarda le affiliazioni per siti per adulti! Ci sono centinaia di offerte e tutte BEN PAGANTI!
 
 Ora entriamo in dettaglio con le offerte.
 
