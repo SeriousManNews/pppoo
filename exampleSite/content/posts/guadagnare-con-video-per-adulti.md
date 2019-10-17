@@ -131,6 +131,12 @@ Il dominio deve contenere ‘Cam‘ ‘Cams‘ ‘Webcam‘ ‘Webcams‘ all’
 Dopo che avete deciso il nome devi scegliere una delle offerte di CrackRevenue.
 Ce ne sono parecchie io per iniziare punterei sulle cam o su programmi di incontri!
 
+Ora basta andare sull'offerta scelta, schiacciare su Track your Link ----> Copiarlo---->Andare su Bluehost o l'host che avete scelto--->Cercare la sezione redirect---->incollare il track dell'offerta et voilà.
+
+
+<img src="https://i.ibb.co/C9YBmHc/screenshot-affiliates-crakrevenue-com-2019-10-17-14-32-57.png" alt="screenshot-affiliates-crakrevenue-com-2019-10-17-14-32-57" border="0">
+
+Ora le persone che incuriositi dai "vostri" video andranno a cercare camwithme.com che li porterà direttamente all'offerta.
 
 
 <h2>STEP 5: INIZIA A CARICARE I VIDEO E GUADAGNA!!</h2>
@@ -173,8 +179,6 @@ Ora immaginate di avere 10 video che vi portano 1000 visualizzazioni al giorno c
 Vi ricordo inoltre che se un video dovesse andare virale.. beh BINGO!! 
 
 Per qualsiasi info contattatemi!
-
-
 
 Copia il tuo link personale di tracciamento ed impostalo tramite redirect nel dominio appena scelto se il provider lo permette, altrimenti è possibile scegliere un qualsiasi free hosting e creare un file redirect all’interno per permettere di reindirizzare il tuo dominio all’offerta scelta. IN OGNI CASO POTETE O CHIEDERE SUPPORTO AL SITO PER IL RENDER OPPURE CHIEDETE DIRETTAMENTE A ME SARO’ FELICE DI AIUTARVI!
 
