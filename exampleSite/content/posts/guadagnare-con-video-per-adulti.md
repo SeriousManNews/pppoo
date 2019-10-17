@@ -26,7 +26,7 @@ Voglio spiegarvi il metodo passo dopo passo per i neofiti per mostrare loro come
 
 Ora iniziamo, ma non posso promettere risultati eccellenti SE NON SI LAVORA ALMENO 2-3 ORE AL GIORNO nelle vostre prime 2-3 settimane!
 
-COS’E’ STO METODO? DI COSA SI TRATTA?
+<h2>COS’E’ STO METODO? DI COSA SI TRATTA?</h2>
 
 Qualche anno fa, quando avevo 16-17 anni, quasi nessuno riusciva a guadagnare con le affiliazioni con i porno!
 
@@ -103,11 +103,21 @@ Ma vi posso garantire che i risultati sono eccellenti!
 
 Ora che abbiamo scelto la nostra offerta dovremo reinderizzare i visitatori del nostro dominio (ora tra un attimo passiamo a questo punto.)
 
-PUNTO MOLTO IMPORTANTE!
+<h2> PUNTO MOLTO IMPORTANTE! </h2>
 
-Per ritirare i vostri soldi dal sito bisogna usare <a href="http://turboagram.com/GLa8">PAXUM.</a>
+Per ritirare i vostri soldi dal sito consiglio di usare <a href="http://turboagram.com/GLa8">PAXUM.</a> per la celerita.
+Una volta effettuata la registrazione riceverete a casa la carta di credito con cui potrete ritirare i vostri guadagni.he
 
-Una volta effettuata la registrazione riceverete a casa la carta di credito con cui potrete ritirare i vostri guadagni.
+Ma ci sono anche altri metodi per ritirare il guadagno: Assegno, Bonifico Bancario ed il innovativo metodo ACH.
+
+Il metodo ACH è come un bonifico bancario ma con diverse novità interessanti.
+
+-Semplicità ---> Basta imettere i dati bancari
+-Risparmio---> Costo di 2$ invece dei 20$ del bonifico
+-Velocità--->Tempi simili al bonifico 
+
+Sconsiglio vivamente gli Assegni, dato che per esperienza personale mi hanno chiesto 60 dollari di tasse per cambiare l'assegno, oltre i tempi lunghi.
+
 
 <h2>STEP 4: CREAZIONE DOMINIO E HOSTING</h2>
 
@@ -116,14 +126,16 @@ Okay ora ci serve il dominio, e l’hosting ed ora vi mostro come averli gratuit
 Consiglio vivamente: <a href="https://www.bluehost.com/track/seriousman/" target="_blank"> BLUEHOSTING </a>
 
 Prima cosa è necessario trovare un buon nome di dominio.
-Il dominio deve contenere ‘Cam‘ ‘Cams‘ ‘Webcam‘ ‘Webcams‘ all’interno del nome, per renderlo piccante e cosicchè l’il visitatore sia invogliato a navigarci, siate ingegnosi!
+Il dominio deve contenere ‘Cam‘ ‘Cams‘ ‘Webcam‘ ‘Webcams‘ all’interno del nome, per renderlo piccante e cosicchè il visitatore sia invogliato a navigarci ad esempio: mycamishot.com, camwithme.com ecc siate ingegnosi!
 
 Dopo che avete deciso il nome devi scegliere una delle offerte di CrackRevenue.
+Ce ne sono parecchie io per iniziare punterei sulle cam o su programmi di incontri!
 
-Iniziamo con le DOI E SOI (Offerte gratuite senza carta di credito) successivamente quando avrai molte visite potrai usare le PPS (Quelle con carta di credito!Molto più remunerative!).
 
-STEP 5: INIZIA A CARICARE I VIDEO E GUADAGNA!!
-Di solito quanto scaricate i video sono chiamati “Tina is having sex for first time” o cose del genere!
+
+<h2>STEP 5: INIZIA A CARICARE I VIDEO E GUADAGNA!!</h2>
+
+Di solito quando scaricate i video sono chiamati “Tina is having sex for first time” o cose del genere!
 
 Ecco noi invece dobbiamo cambiare nome al titolo, dobbiamo renderlo più “attraente” usiamo qualche titolo “fetish” ad esempio [Tina is having sex for first time] —> Lo chiameremo [Me and my stepdaughter] o qualcosa del genere, basta farvi un giro tra i video più famosi e vedere che titoli hanno.
 
@@ -134,7 +146,7 @@ PS: CON <a href="https://www.bluehost.com/track/seriousman/" target="_blank">BLU
 
 Per esempio:
 
-La mia figliastra in webcam – altri video su MYDOMAIN.com
+Tina is hot - altro su MYDOMAIN.COM
 (MYDOMAIN.com è il NOSTRO  DOMINIO CHE ABBIAMO SCELTO).
 O per esempio: Squirting MILF in webcam – MYDOMAIN.com.
 Questo è l’esempio di uno dei miei video:
@@ -142,6 +154,14 @@ Questo è l’esempio di uno dei miei video:
 <img src="https://i.ibb.co/JH0K0Vn/rrrrrr1.jpg" alt="rrrrrr1" border="0">
 
 Come potete notare più di 280.000 visualizzazioni! OVVIAMENTE NON TUTTI SONO ANDATI AL SITO 666cams.net MA UNA BUONA PARTE DI LORO LO HA FATTO, SARA’ PER IL TITOLO ACCATTIVANTE O PER IL VIDEO IN SE!
+
+<h2> ATTENZIONE </h2>
+
+Ultimamente i siti porno cancellano spesso i video con il sito nel titolo ad esempio: Tina is hot - altro su MYDOMAIN.COM
+
+<h2> Consiglio di mettere la filigrana nel video direttamente </h2>
+
+Cos'è la filigrana? In pratica è una scritta o un logo all'interno del video stesso, questo di solito serve a rivendicare i diritti del video, ma noi lo useremo per indirizzare il traffico sul sito della vostra offerta!
 
 E si è pronti a fare soldi ora!
 Io non promuovo i miei video con gli annunci , Xvideo.com è il più grande sito porno del mondo quindi non è necessario per iniziare [magari in futuro], SOPRATTUTTO IL VIDEO SARA’ RUBATO DA CENTINA DI ALTRE PERSONE QUINDI SE ABBIAMO USATO LA IL WATERMARK OVVERO SCRIVERE IL NOSTRO DOMINIO ALL’INTERNO DEL VIDEO CI FARANNO PUBBLICITA’ GRATUITA PER SEMPRE!!!
