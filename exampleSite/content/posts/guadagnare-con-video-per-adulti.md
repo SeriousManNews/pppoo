@@ -58,6 +58,8 @@ Uno dei migliori siti per questo metodo è sicuramente <a href="http://xvideos.c
 
 Di solito non fanno molte storie e se anche dovessero cancellare i vostri video basta ricaricarli!
 
+<img src="https://i.ibb.co/TmbnyCD/oboii.jpg" alt="oboii" border="0">" alt="screenshot-xxx-neon-com-2019-10-17-14-32-57" border="0">
+
 Si può letteralmente fare un account ogni sito porno su Internet che permette di caricare video porno!
 
 <a href="http://adf.ly/1kGl3S" target="_blank" rel="noopener">I MIGLIORI SITI PORNO!</a> Andiamo qua e iniziamo a scaricare qualche video!
@@ -82,6 +84,8 @@ Ora creiamo una cartella dove mettere tutti i nostri video, chiamiamola PornoLav
 Cosa diavolo è CrakRevenue?
 
 IN PRATICA SONO I NOSTRI DATORI DI LAVORO!
+
+<img src="https://i.ibb.co/LZb4KxK/9bd50a5-word-image-6-768x276.png" alt="9bd50a5-word-image-6-768x276" border="0">
 
 <a href="https://affiliates.crakrevenue.com/access/create-account?r=44289">Crakrevenue.com</a> è probabilmente il miglior sito sul web per quanto riguarda le affiliazioni per siti per adulti! Ci sono centinaia di offerte e tutte BEN PAGANTI!
 
