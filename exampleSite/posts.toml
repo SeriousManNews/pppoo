@@ -19,7 +19,7 @@ enableEmoji=true
 [params]
 	author = "SeriousMan"
 	description = "Guide utili-Contatti-Metodi e Tanto altro"
-	avatar = "https://i.ibb.co/bRqPN2p/default-Fav-ico.png"
+	avatar = "<img src="https://i.ibb.co/bRqPN2p/default-Fav-ico.png" alt="default-Fav-ico" border="0">"
 	motto = "Se non ci provi, non lo saprai mai."
 	enableToc = true
 	enableShareCard = true
