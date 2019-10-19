@@ -69,7 +69,6 @@ Si può letteralmente fare un account ogni sito porno su Internet che permette d
 
 Ora, possiamo iniziare con porno.
 
-<a href="https://ibb.co/vh1HXTF"><img src="https://t.hrtye.com/c0vk7yph34?url_id=0&aff_id=44289&offer_id=3873&bo=2753,2754,2755,2756&po=6456 alt="4club-ppl-soi" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>upload picture</a><br />
 
 A questo punto scaricare video porno registrati con webcam (questo è il metodo migliore, ma è possibile scaricare qualsiasi video se pensi che possa essere visto da tanta gente!)
 Il video non deve avere alcun marchio, filigrana o qualsiasi intro!
