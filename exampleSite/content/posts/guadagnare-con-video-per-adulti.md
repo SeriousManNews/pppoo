@@ -9,8 +9,7 @@ categories:
 cover : "https://i.ibb.co/Jzy9Zth/29243e9.jpg"
 draft: false
 ---
-
-<a href="https://ibb.co/vh1HXTF"><img src="https://t.hrtye.com/c0vk7yph34?url_id=0&aff_id=44289&offer_id=3873&bo=2753,2754,2755,2756&po=6456" alt="4club-ppl-soi" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>upload picture</a><br />
+<a href="https://t.hrtye.com/c0vk7yph34?url_id=0&aff_id=44289&offer_id=3873&bo=2753,2754,2755,2756&po=6456"><img src="https://i.ibb.co/YX2301C/4club-ppl-soi.jpg" alt="4club-ppl-soi" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>image uploader</a><br />
 
 Ehi gente, sono diventato molto popolare su BHW forum [forum inglese di guadagni online] con questo metodo.
 
@@ -82,6 +81,8 @@ Andiamo qua e iniziamo a scaricare qualche video!
 È possibile scaricare questi video con un sacco di programmi, personalmente uso <a href="http://adf.ly/1kGltq" target="_blank" rel="noopener">CatchVideo.</a>
 
 Ora creiamo una cartella dove mettere tutti i nostri video, chiamiamola PornoLavoro o qualcosa di simile, scaricati 10 video porno alla mattina e poi durante il giorno caricali nei siti porno che hai scelto!
+
+<a href="https://t.hrtye.com/c0vk7yph34?url_id=0&aff_id=44289&offer_id=3873&bo=2753,2754,2755,2756&po=6456"><img src="https://i.ibb.co/YX2301C/4club-ppl-soi.jpg" alt="4club-ppl-soi" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>image uploader</a><br />
 
 <h2>STEP 3: CREIAMO ACCOUNT SU CRAKREVENUE!</h2>
 
