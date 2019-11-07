@@ -1,10 +1,10 @@
 ---
 title: "Seggiolini anti abbandono, dove comprarli"
-date: 2019-11-7
+date: 2019-11-07
 tags:
 - News
 categories:
-- News
+- Metodi
 cover : "https://i.ibb.co/1TRCz7C/Seggiolini-anti-abbandono.jpg"
 draft: false
 ---
