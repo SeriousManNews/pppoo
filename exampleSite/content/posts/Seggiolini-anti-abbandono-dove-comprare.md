@@ -1,5 +1,5 @@
 ---
-title: "Seggiolini anti abbandono, dove comprarli"
+title: "seggiolini anti abbandono, dove comprarli"
 date: 2019-11-7
 tags:
 - News
