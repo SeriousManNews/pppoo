@@ -17,10 +17,12 @@ Riporta Ansa.
 
 Le sanzioni vanno dai 81€ ai 326€ oltre a 5 punti sulla patente, per ogni macchina trovata sprovvista.
 
-<strong>MA DOVE SI ACQUISTA?</strong>
+<strong>DOVE COMPRARE I SEGGIOLINI ANTI ABBANDONO?</strong>
  
-Per ora abbiamo trovato solo dispositivi, per i seggiolini aspetteremo ancora un po'per vedere le linee guida.
+Per ora abbiamo trovato solo dispositivi su Amazon, per i seggiolini aspetteremo ancora un po'per vedere le linee guida.
 
 <a href="https://amzn.to/2JZKWjG">SteelMate Baby</a>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=sketshops-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B078W8BBFK&linkId=b6ee076d98c60b9beb6b3a2de76652c3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
-    </iframe>
+
+<a href="https://amzn.to/36B4kx8">Digicom Tippy Baby</a>
+
+Questi sono tra i migliori in circolazione, per qualsiasi informazioni scrivete nella chat sottostante!
