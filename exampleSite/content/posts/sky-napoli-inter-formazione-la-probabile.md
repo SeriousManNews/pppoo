@@ -11,7 +11,7 @@ draft: false
 ---
 
 Grande attesa per la partita di sta sera tra Napoli ed Inter.
-I padroni di casa sono imbattuti in campionato dal lontano 1997, da li 9 sconfitte e 4 pareggi.
+<strong> I padroni di casa sono imbattuti in campionato dal lontano 1997, da li 9 sconfitte e 4 pareggi.</strong>
 L'ultima gioia nerazzurra risale 2016, dove ci si giocava il pass per la semifinale di Coppa Italia.
 Per quanto riguarda la formazione Interista, in difesa - riferisce SkySport - resta vivo il ballottaggio tra Bastoni e Godin, mentre a centrocampo Sensi viaggia verso la panchina con la conferma di Gagliardini e Vecino ai fianchi del rientrante Brozovic (squalificato contro il Genoa). 
 La difesa verrà completata da Skriniar e De Vrij, mentre Candreva e Biraghi agiranno sugli esterni.
