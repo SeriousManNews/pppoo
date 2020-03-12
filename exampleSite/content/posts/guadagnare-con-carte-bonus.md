@@ -24,6 +24,7 @@ I Bonus Benvenuto sono <strong> incentivi </strong> che danno le app per richiam
 Di solito i Bonus si differenziano in due categorie, con <strong> deposito </strong> o <strong> senza </strong>.
 
 <strong> Con Deposito </strong>: Quando devi fare una ricarica minima, oppure un tot di transazioni (Leggere la descrizione per ogni offerta.)
+
 <strong> Senza Deposito </strong>: Non è necessario fare nessuna ricarica o nessuna transazione.
 
 
