@@ -31,9 +31,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 <h2> <strong> Senza Deposito </strong> </h2> 
 
-<a href="https://i.ibb.co/xJFqDR8/Yap.jpg" rel="attachment wp-att-730"><img class="wp-image-730 alignleft" src="https://i.ibb.co/xJFqDR8/Yap.jpg" alt="" width="267" height="209" /></a>
-
-<img class="wp-image-730 alignleft" src="https://i.ibb.co/xJFqDR8/Yap.jpg" alt="" width="267" height="209" />PROVA PROVA PROVA PROVA PROVA PROVA
+<img class="wp-image-730 alignleft" src="https://i.ibb.co/xJFqDR8/Yap.jpg" alt="" width="267" height="209"/>PROVA PROVA PROVA PROVA PROVA PROVA
 
 
 
