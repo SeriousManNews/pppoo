@@ -32,10 +32,9 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 <h2> Senza Deposito </h2>
 
-
-<img src="https://i.ibb.co/xJFqDR8/Yap.jpg" width="267" height="209" alt="" style="float: left;margin: 15px 15px 5px 15px;">
-
 <h2> Yap! </h2>
+
+<img src="https://i.ibb.co/xJFqDR8/Yap.jpg" alt="YAP BONUS" border="0">
 
 <strong> Probailmente la wallet app più utilizzata in questo periodo, decisamente quella con più bonus e vantaggi.
  YAP è un'app per pagare senza contanti, target che va dai 12 anni in su. È firmata Nexi e permette di pagare via smartphone in negozio e online dotata di tecnologia NFC.
