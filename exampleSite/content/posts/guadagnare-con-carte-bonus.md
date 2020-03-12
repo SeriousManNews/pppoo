@@ -43,11 +43,11 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 🕑 Tempo di accredito: Fino a 24h
 
-✔️ Invita amici: 10€ per ogni amico invitato (deve effettuare almeno una ricarica da 5€)
+💌 Invita amici: 10€ per ogni amico invitato (deve effettuare almeno una ricarica da 5€)
 
-✔️ Scadenza: 16/03/2020 
+❌ Scadenza: 16/03/2020 
 
-✔️ Codice Bonus: ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -55,6 +55,23 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
  <h2> BILL </h2>
  
  <img src="https://i.ibb.co/2Ny0Z1s/e756fca4-ff2b-42c0-b102-405eea05e00c-large.jpg" alt="BILL BONUS" border="0" width="300">
+ 
+ Bill è il wallet virtuale di SisalPay, sulle orme di Satispay l'app punta al modello one-to-one con i negozi, tra le servizi si può pagare Bollettini, PagoPA (Effettuare pagamenti verso gli enti creditori della Pubblica Amministrazione) oltre alle ricariche telefoniche.
+ Con Bill puoi anche trasferire denaro sul conto corrente, per la ricarica ti puoi affidare a Ricarica Relax (Scegliere la ricarica automatica tramite mandato "SDD" ovvero conto corrente).
+ Per usufruire dell'app serve obbligatoriamente il conto corrente.
+ Ricarica Cash Utilizza i contanti per ricaricare Bill nei punti vendita SisalPay.
+ 
+✔️ Bonus: 10€ senza deposito iniziale, (5€ dalla app + 5€ con il codice bonus)
+
+🕑 Tempo di accredito: Fino a 3 giorni.
+
+💌 Invita amici: 5€ per ogni amico invitato
+
+❌ Scadenza: 30/09/2020 
+
+✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
+ 
+ 
  
  
  
