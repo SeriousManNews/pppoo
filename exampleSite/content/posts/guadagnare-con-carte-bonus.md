@@ -30,7 +30,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2> Senza Deposito </h2>
+<h2>👇 Senza Deposito👇 </h2>
 
 <h2> Yap! </h2>
 
@@ -39,13 +39,16 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 <strong> Probailmente la wallet app più utilizzata in questo periodo, decisamente quella con più bonus e vantaggi.
  YAP è un'app per pagare senza contanti, target che va dai 12 anni in su. È firmata Nexi e permette di pagare via smartphone in negozio e online dotata di tecnologia NFC.
  
-Bonus: 10€ senza deposito iniziale.
+✔️ Bonus: 10€ senza deposito iniziale.
 
-Invita amici: 10€ per ogni amico invitato (deve effettuare almeno una ricarica da 5€)
+✔️ Invita amici: 10€ per ogni amico invitato (deve effettuare almeno una ricarica da 5€)
 
-Scadenza: 16/03/2020 
+✔️ Scadenza: 16/03/2020 
 
-Codice Bonus: ABDELAMAJIDELO <a href="https://appagatoconyap.it/promo/xJLfy">CLICCA QUI E PRENDI IL TUO BONUS!</a>
+✔️ Codice Bonus: ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS!</a>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
  
  
 
