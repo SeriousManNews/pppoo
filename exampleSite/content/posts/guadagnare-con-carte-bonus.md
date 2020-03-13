@@ -47,7 +47,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ❌ Scadenza: 16/03/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
+✔️ Codice Bonus: Usa il codice-----> "ABDELAMAJIDELO" <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -69,7 +69,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ❌ Scadenza: 30/09/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
+✔️ Codice Bonus: Usa il codice-----> "ABDELO" <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
  
  
  --------------------------------------------------------------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDELMAJIDE <a href="http://bit.ly/bonusSatispay">CLICCA QUI E PRENDI IL TUO BONUS SATISPAY!</a>
+✔️ Codice Bonus: Usa il codice-----> "ABDELMAJIDE" <a href="http://bit.ly/bonusSatispay">CLICCA QUI E PRENDI IL TUO BONUS SATISPAY!</a>
 
 
  
