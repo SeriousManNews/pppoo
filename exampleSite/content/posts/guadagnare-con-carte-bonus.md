@@ -72,6 +72,27 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 ✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
  
  
+ --------------------------------------------------------------------------------------------------------------------------------------
+ 
+ <h2> Satispay </h2>
+ 
+  <img src="https://i.ibb.co/rmxfdGy/satispay-51446.jpg" alt="Satispay BONUS" border="0" width="300">
+
+La italianissima Satispay è nata nel 2013, è un serivzio gratuito e differente dai classici wallet.
+Satispay infatti permette di pagare tramite tecnologia QR CODE, basta andare in uno dei negozi convenzionati (Satispay mostra le attività nelle tue vicinanze) inserire l'importo da pagare e inviare il codice all'esercente.
+Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
+
+✔️ Bonus: 5€ senza deposito iniziale, (Registrazione completa ed impostare il budget, non importa se non avete soldi nel conto corrente, basta impostarlo.)
+
+🕑 Tempo di accredito: Fino a 3 giorni.
+
+💌 Invita amici: 2€ per ogni amico invitato
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> ABDELMAJIDE <a href="http://bit.ly/bonusSatispay">CLICCA QUI E PRENDI IL TUO BONUS SATISPAY!</a>
+
+
  
  
  
