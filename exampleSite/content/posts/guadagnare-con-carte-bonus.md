@@ -144,6 +144,22 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+<h2> Oval Money </h2>
+
+  <img src="https://i.ibb.co/xHBTCp2/200px-Wordmark-Green.png" alt="Oval BONUS" border="0" width="300">
+  
+  Oval Money è una società italo-inglese fondata nel 2016, il servizio permette ai propri utenti di gestire il proprio denaro tramite strumenti legati al risparmio e agli investimenti, direttamente con il proprio smartphone.
+  
+✔️ Bonus: 5€ alla sesta transazione (basta impostare 1€ per ogni transazione nel wallet Oval Future)
+
+🕑 Tempo di accredito: Entro 24 ore dalla sesta transazione.
+
+💌 Invita amici: 5€ per ogni amico invitato alla prima transazione.
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> AE2PNZBNU  <a href="http://bit.ly/bonusOval">CLICCA QUI E PRENDI IL TUO BONUS OVAL!</a>
+
 
 
  
