@@ -47,7 +47,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ❌ Scadenza: 16/03/2020 
 
-✔️ Codice Bonus: Usa il codice-----> "ABDELAMAJIDELO" <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -69,7 +69,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ❌ Scadenza: 30/09/2020 
 
-✔️ Codice Bonus: Usa il codice-----> "ABDELO" <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
  
  
  --------------------------------------------------------------------------------------------------------------------------------------
@@ -90,10 +90,68 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> "ABDELMAJIDE" <a href="http://bit.ly/bonusSatispay">CLICCA QUI E PRENDI IL TUO BONUS SATISPAY!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELMAJIDE <a href="http://bit.ly/bonusSatispay">CLICCA QUI E PRENDI IL TUO BONUS SATISPAY!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<h2> Dukascopy 911 app </h2>
+
+  <img src="https://i.ibb.co/kg5dT8Q/ducaskopy-0.jpg" alt="Dukascopy BONUS" border="0" width="300">
+  
+  Dukascopy 911 è l'app della banca Svizzera Dukascopy, proprietaria della cryptovaluta DUK+, infatti dall'app puoi comprare e vendere la valuta che costa al momento (13/03/2020) 1.60€ a DUK+.
+  L'app regala come bonus benvenuto 5 DUK+ imettendo il codice bonus!
+  Per registrarsi è obbligatorio possedere la carta d'identita elettronica o qualsiasi documento con il la striscia MRZ!
+  
+  Per avere accesso al bonus è necessaria la verifica video (3 minuti circa), per verificarsi basta seguire la procedura a schermo.
+  
+  Per convertire i DUK+ basta schiacciare sul bottone "Bank" -----> le due Freccette -----> Trovare un BID da 5 DUK+ -----> e confermare.
+  
+  Ora bisogna collegare la propria carta di credito (ATTTENZIONE: LE PREPAGATE NON SONO ACCETTATE), schiacciare sul bottone con scritto quanto è avanzato in euro-------> Account Operation-----> Withdrawls ------> To a Card-----> La carta che avete collegato-----> Ora potete tranquillamente ritirare quello che è avanzato! -------> Tra una tassa e l'altra avanza circa 1.60€, se preferite potete evitare tutta la procedura scrivendomi direttamente su Facebook: SeriousMan e io provvederò a comprare i DUK+ da voi a 2€!
+  
+  In ogni caso l'offerta non prevede nessun deposito.
+  
+  ✔️ Bonus: 5 DUK+ senza deposito iniziale
+
+🕑 Tempo di accredito: Entro 6 ore.
+
+💌 Invita amici: 5 DUK+ per ogni amico invitato
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> R26-T8Y <a href="http://bit.ly/bonusDUK">CLICCA QUI E PRENDI IL TUO BONUS DUK!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<h2> Curve </h2>
+
+  <img src="https://i.ibb.co/TqzcrkS/banner-curve.jpg" alt="Curve BONUS" border="0" width="300">
+  
+  Curve è probailmente la più interessante del gruppo, l'app permette di riunire in un'unica soluzione tutte le tue carte di credito!
+  Infatti la Carta Curve (che potete richiedere gratuitamente) utilizza i soldi delle vostre carte collegate, impossibile infatti ricaricare la carta in modo autonomo.
+  Al momento della registrazione se utilizzato il codice amico il servizio regala 5 sterline (l'app converte la valuta).
+  Per avere accesso al Bonus Curve è necessario collegare una carta e spendere almeno 1€, dopo di che si riceverà il bonus direttamente sul wallet virtuale.
+  
+  
+✔️ Bonus: 5£ alla prima transazione
+
+🕑 Tempo di accredito: Entro 72 ore.
+
+💌 Invita amici: 5 £ per ogni amico invitato
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> DP9GL4XN <a href="http://bit.ly/bonusCurve">CLICCA QUI E PRENDI IL TUO BONUS CURVE!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 
 
  
+  
+  
+
+
+
  
  
  
