@@ -30,7 +30,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>👇 Senza Deposito👇 </h2>
+<Strong> <h2>👇 Senza Deposito👇 </h2>
 
 <h2> Yap! </h2>
 
@@ -143,6 +143,46 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 ✔️ Codice Bonus: Usa il codice-----> DP9GL4XN <a href="http://bit.ly/bonusCurve">CLICCA QUI E PRENDI IL TUO BONUS CURVE!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+<h2>👇 Con Deposito👇 </h2>
+
+
+<h2> HYPE </h2>
+
+  <img src="https://i.ibb.co/wNF9Srp/1-10-640x342.jpg" alt="Hype BONUS" border="0" width="300">
+  
+  Hype è probabilmente la prepagata che da il bonus maggiore a fronte del minor investimento.
+  La carta del gruppo Banca Sella offre servizi vantaggiosi tra cui Canone gratuito annuale oltre ad un rilascio gratuito della carta (dotata di IBAN).
+  
+✔️ Bonus: 10€ alla prima ricarica (Va bene anche 1€)
+
+🕑 Tempo di accredito: Entro 24 ore.
+
+💌 Invita amici: 10€ per ogni amico invitato alla prima transazione. (Dopo che inviti 5 amici ricevi 50€ in bonus Amazon, dopo di chè ogni 100 amici invitati 250€ sempre in buoni Amazon.)
+
+❌ Scadenza: 30/05/2020 
+
+✔️ Codice Bonus: Usa il codice-----> <a href="http://bit.ly/bonusHype">CLICCA QUI E PRENDI IL TUO BONUS HYPE!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<h2> Monese </h2>
+
+  <img src="https://i.ibb.co/nQ7kQBK/monese-1024x683.png" alt="Oval BONUS" border="0" width="300">
+  
+  Monese è la carta prepagata che uso personalmente di più, zero spese di ricarica e perlievo gratiuto in tutti gli ATM.
+  Targata MasterCard, Monese offre la possibilità anche di richiedere la prepagata (In questo momento la basic costa 5€)
+  
+✔️ Bonus: 5€ alla prima transazione (Non c'è un minimo puoi anche spendere 0.15cent) + 15€ se superate i 500€ di spesa.
+
+🕑 Tempo di accredito: Entro 24 ore.
+
+💌 Invita amici: 5€ per ogni amico invitato alla prima transazione.
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> ABDEL365  <a href="http://bit.ly/bonusMonese">CLICCA QUI E PRENDI IL TUO BONUS MONESE!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 <h2> Oval Money </h2>
 
@@ -150,7 +190,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
   
   Oval Money è una società italo-inglese fondata nel 2016, il servizio permette ai propri utenti di gestire il proprio denaro tramite strumenti legati al risparmio e agli investimenti, direttamente con il proprio smartphone.
   
-✔️ Bonus: 5€ alla sesta transazione (basta impostare 1€ per ogni transazione nel wallet Oval Future)
+✔️ Bonus: 5€ alla sesta transazione (basta impostare 1€ per ogni transazione nel wallet Oval Future, quindi alla fine avrete 6€+5€)
 
 🕑 Tempo di accredito: Entro 24 ore dalla sesta transazione.
 
@@ -159,6 +199,56 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 ❌ Scadenza: XX/XX/2020 
 
 ✔️ Codice Bonus: Usa il codice-----> AE2PNZBNU  <a href="http://bit.ly/bonusOval">CLICCA QUI E PRENDI IL TUO BONUS OVAL!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<h2> Gimme5 </h2>
+
+  <img src="https://i.ibb.co/zskVnxq/g5-logo-image-website.png" alt="Gimme5 BONUS" border="0" width="300">
+  
+  Gimme5 è un salvadanaio virtuale tutta italiana, puoi iniziare a risparmiare da 5€ (serve compilare i dati bancari).
+  Uno dei servizi di questa app è il fatto che puoi investire i tuoi risparmi (Basta scegliere il profilo di rischio adatto alle tue esigenze).
+  
+  Ma soprattutto offre un bonus da 5€ una volta caricati alemno 5€ sul conto! (Il tutto prelevabile ovviamente, senza vincoli.
+  
+✔️ Bonus: 5€ prima ricarica. (Bastano 5€ di ricarica.)
+
+🕑 Tempo di accredito: Entro 24 ore.
+
+💌 Invita amici: 5€ per ogni amico invitato alla prima ricarica.
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> ABDEELO001  <a href="http://bit.ly/bonusGimme5">CLICCA QUI E PRENDI IL TUO BONUS GIMME5!</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<h2> Verse </h2>
+
+  <img src="https://i.ibb.co/JQskhdn/verse.jpg" alt="Verse BONUS" border="0" width="300">
+  
+  Verse è una wallet app stile Paypal, infatti permette di trasferire i soldi facilmente tra i propri contatti.
+  
+✔️ Bonus: 5€ (Una volta superato i 20€ di spesa, puoi anche invitare un amico e passarveli tra di voi)
+
+🕑 Tempo di accredito: Entro 24 ore.
+
+💌 Invita amici: 5€ per ogni amico invitato al superamento dei 20€.
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: E' obbligatorio essere invitati tramite numero di telefono, per usufruire del bonus contattatemi via Facebook: <a href="http://bit.ly/bonusVerse">CLICCA QUI E PRENDI IL TUO BONUS VERSE!</a> </strong>
+
+
+  
+
+
+  
+
+
+
+
+
 
 
 
