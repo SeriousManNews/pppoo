@@ -49,6 +49,31 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
 
+-------------------------------------------------------------------------------------------------------------------------------------
+ 
+ <h2> WINGO CARD  </h2>
+ 
+ <img src="https://i.ibb.co/gvnM2yq/phone-desktop-samhnr.png" alt="WINGO CARD BONUS" border="0" width="300">
+ 
+Wingo card ancora in early access, quindi bisogna solo aspettare che esca nel Play Store/ App Store.
+In ogni caso ci si può gia iscrivere e prenotarsi oltre al fatto che si può gia iniziare a invitare amici e ottenere il bonus!
+
+Wingo dalle premesse sembra un ottima opportunità, pagamento con NFC, personalizzazione della carta  (presumo gratuita, vedremo più avanti) e la possibilità di guadagnare facendo dei minilavori con l'app stessa.
+
+ <img src="https://i.ibb.co/F4PJx3j/screenshot-wingocard-com-2020-03-14-20-24-32.png" alt="WINGO CARD BONUS" border="0" width="300">
+
+ 
+✔️ Bonus: 5€ senza deposito iniziale
+
+🕑 Tempo di accredito: XXX.
+
+💌 Invita amici: 5€ per ogni amico invitato
+
+❌ Scadenza: XX/XX/2020 
+
+✔️ Codice Bonus: Usa il codice-----> ABDELMAJID2 <a href="http://bit.ly/WingoBonus">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------
  
