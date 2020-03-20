@@ -254,11 +254,11 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
   
   Verse è una wallet app stile Paypal, infatti permette di trasferire i soldi facilmente tra i propri contatti.
   
-✔️ Bonus: 5€ (Una volta superato i 20€ di spesa, puoi anche invitare un amico e passarveli tra di voi)
+✔️ Bonus: 1€ (Una volta superato i 20€ di spesa, puoi anche invitare un amico e passarveli tra di voi)
 
 🕑 Tempo di accredito: Entro 24 ore.
 
-💌 Invita amici: 5€ per ogni amico invitato al superamento dei 20€.
+💌 Invita amici: 1€ per ogni amico invitato al superamento dei 20€.
 
 ❌ Scadenza: XX/XX/2020 
 
