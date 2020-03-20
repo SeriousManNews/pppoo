@@ -70,8 +70,8 @@ Wingo dalle premesse sembra un ottima opportunità, pagamento con NFC, personali
 💌 Invita amici: 5€ per ogni amico invitato
 
 ❌ Scadenza: XX/XX/2020 
-
-✔️ Codice Bonus: Usa il codice-----> ABDELMAJID2 <a href="http://bit.ly/WingoBonus">CLICCA QUI E PRENDI IL TUO BONUS WINGO!</a>
+⚠️
+✔️ Codice Bonus: Usa il codice-----> ⚠️Ancora non disponibile in Europa.⚠️
 
 
 
