@@ -172,7 +172,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 
 
-<a href="htpps://www.amazon.it/kindle-dbs/hz/signup?tag=id_affiliato-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/kindle/ku/associates/1132121_it_kindle_unlimited_ku_affiliate_it_234x60rev._CB471795445_.jpg"> </a>
+<a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/kindle/ku/associates/1132121_it_kindle_unlimited_ku_affiliate_it_234x60rev._CB471795445_.jpg"> </a>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
