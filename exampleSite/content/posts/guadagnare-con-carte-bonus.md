@@ -28,6 +28,9 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 <strong> Senza Deposito </strong>: Non è necessario fare nessuna ricarica o nessuna transazione.
 
 
+<a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/associates/maitri/banner/amazon_it_musica_234x60.gif"> </a>
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <Strong> <h2>👇 Senza Deposito👇 </h2>
@@ -167,6 +170,11 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ✔️ Codice Bonus: Usa il codice-----> DP9GL4XN <a href="http://bit.ly/bonusCurve">CLICCA QUI E PRENDI IL TUO BONUS CURVE!</a>
 
+
+
+<a href="htpps://www.amazon.it/kindle-dbs/hz/signup?tag=id_affiliato-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/kindle/ku/associates/1132121_it_kindle_unlimited_ku_affiliate_it_234x60rev._CB471795445_.jpg"> </a>
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 <h2>👇 Con Deposito👇 </h2>
 
@@ -254,7 +262,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
   
   Verse è una wallet app stile Paypal, infatti permette di trasferire i soldi facilmente tra i propri contatti.
   
-✔️ Bonus: 1€ (Una volta superato i 20€ di spesa, puoi anche invitare un amico e passarveli tra di voi)
+✔️ Bonus: 5€ (Una volta superato i 20€ di spesa, puoi anche invitare un amico e passarveli tra di voi)
 
 🕑 Tempo di accredito: Entro 24 ore.
 
