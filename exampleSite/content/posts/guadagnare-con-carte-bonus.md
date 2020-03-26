@@ -28,8 +28,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 <strong> Senza Deposito </strong>: Non è necessario fare nessuna ricarica o nessuna transazione.
 
 
-<a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/associates/maitri/banner/amazon_it_musica_234x60.gif"> </a>
-
+<a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/associates/maitri/banner/amazon_it_musica_234x60.gif" alt="Image" height="600" width="90"> </a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
