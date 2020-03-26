@@ -28,7 +28,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 <strong> Senza Deposito </strong>: Non è necessario fare nessuna ricarica o nessuna transazione.
 
 
-<a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/associates/maitri/banner/amazon_it_musica_234x60.gif" alt="Image" height="600" width="90"> </a>
+<a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/associates/maitri/banner/amazon_it_musica_234x60.gif" alt="Image" height="90" width="900"> </a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ❌ Scadenza: 16/03/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">CLICCA QUI E PRENDI IL TUO BONUS YAP!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">PRENDI IL TUO BONUS YAP!</a>
 
 -------------------------------------------------------------------------------------------------------------------------------------
  
@@ -96,7 +96,7 @@ Wingo dalle premesse sembra un ottima opportunità, pagamento con NFC, personali
 
 ❌ Scadenza: 30/09/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">CLICCA QUI E PRENDI IL TUO BONUS BILL!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">PRENDI IL TUO BONUS BILL!</a>
  
  
  --------------------------------------------------------------------------------------------------------------------------------------
@@ -113,11 +113,11 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 🕑 Tempo di accredito: Fino a 3 giorni.
 
-💌 Invita amici: 2€ per ogni amico invitato
+💌 Invita amici: 20€ per ogni amico invitato !FINO AL 27/03!
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDELMAJIDE <a href="http://bit.ly/bonusSatispay">CLICCA QUI E PRENDI IL TUO BONUS SATISPAY!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDELMAJIDE <a href="http://bit.ly/bonusSatispay">PRENDI IL TUO BONUS SATISPAY!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> R26-T8Y <a href="http://bit.ly/bonusDUK">CLICCA QUI E PRENDI IL TUO BONUS DUK!</a>
+✔️ Codice Bonus: Usa il codice-----> R26-T8Y <a href="http://bit.ly/bonusDUK">PRENDI IL TUO BONUS DUK!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -167,11 +167,11 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> DP9GL4XN <a href="http://bit.ly/bonusCurve">CLICCA QUI E PRENDI IL TUO BONUS CURVE!</a>
+✔️ Codice Bonus: Usa il codice-----> DP9GL4XN <a href="http://bit.ly/bonusCurve">PRENDI IL TUO BONUS CURVE!</a>
 
 
 
-<a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/kindle/ku/associates/1132121_it_kindle_unlimited_ku_affiliate_it_234x60rev._CB471795445_.jpg"> </a>
+<a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/kindle/ku/associates/1132121_it_kindle_unlimited_ku_affiliate_it_234x60rev._CB471795445_.jpg"> alt="Image" height="90" width="900" </a>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -193,7 +193,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: 30/05/2020 
 
-✔️ Codice Bonus: Usa il codice-----> <a href="http://bit.ly/bonusHype">CLICCA QUI E PRENDI IL TUO BONUS HYPE!</a>
+✔️ Codice Bonus: Usa il codice-----> <a href="http://bit.ly/bonusHype">PRENDI IL TUO BONUS HYPE!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -212,7 +212,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDEL365  <a href="http://bit.ly/bonusMonese">CLICCA QUI E PRENDI IL TUO BONUS MONESE!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDEL365  <a href="http://bit.ly/bonusMonese">PRENDI IL TUO BONUS MONESE!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> AE2PNZBNU  <a href="http://bit.ly/bonusOval">CLICCA QUI E PRENDI IL TUO BONUS OVAL!</a>
+✔️ Codice Bonus: Usa il codice-----> AE2PNZBNU  <a href="http://bit.ly/bonusOval">PRENDI IL TUO BONUS OVAL!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -251,7 +251,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: Usa il codice-----> ABDEELO001  <a href="http://bit.ly/bonusGimme5">CLICCA QUI E PRENDI IL TUO BONUS GIMME5!</a>
+✔️ Codice Bonus: Usa il codice-----> ABDEELO001  <a href="http://bit.ly/bonusGimme5">PRENDI IL TUO BONUS GIMME5!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -269,7 +269,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: E' obbligatorio essere invitati tramite numero di telefono, per usufruire del bonus contattatemi via Facebook: <a href="http://bit.ly/bonusVerse">CLICCA QUI E PRENDI IL TUO BONUS VERSE!</a> </strong>
+✔️ Codice Bonus: E' obbligatorio essere invitati tramite numero di telefono, per usufruire del bonus contattatemi via Facebook: <a href="http://bit.ly/bonusVerse">PRENDI IL TUO BONUS VERSE!</a> </strong>
 
 
   
