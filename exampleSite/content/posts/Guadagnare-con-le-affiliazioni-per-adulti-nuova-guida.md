@@ -47,7 +47,7 @@ IN PRATICA SONO I NOSTRI DATORI DI LAVORO!
 
 <img src="https://i.ibb.co/LZb4KxK/9bd50a5-word-image-6-768x276.png" alt="9bd50a5-word-image-6-768x276" border="0">
 
-<a href="bit.ly/CrakrevenueIscrizione">Crakrevenue</a> è probabilmente il miglior sito sul web per quanto riguarda le affiliazioni per siti per adulti! Ci sono centinaia di offerte e tutte BEN PAGANTI!
+<a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a> è probabilmente il miglior sito sul web per quanto riguarda le affiliazioni per siti per adulti! Ci sono centinaia di offerte e tutte BEN PAGANTI!
 
 Ora entriamo in dettaglio con le offerte.
 
@@ -124,7 +124,7 @@ In ogni caso non è obbligatorio crearsi un sito web nuovo, se ne hai già uno p
 *Se ti serve una mano a crearti un sito web contattami su WhatsApp o Telegram: 3512256556
 
 
-<a href="bit.ly/CrakrevenueIscrizione">Inizia a guadagnare ora con Crakrevenue!</a>.
+<a href="https://bit.ly/CrakrevenueIscrizione"> Inizia a guadagnare ora con Crakrevenue! </a>.
 
 
 
@@ -195,7 +195,7 @@ Se possibile usate account vecchi di facebook, se ne avete qualcuno che non usav
 
 In caso potete comprarli su Blackhatworld.com oppure contattami su WhatsApp o Telegram: 3512256556 😉
 
-💭 <a href="bit.ly/CrakrevenueIscrizione">Crakrevenue, se ancora non ti sei registrato 😉</a>.
+💭 <a href="https://bit.ly/CrakrevenueIscrizione">Crakrevenue, se ancora non ti sei registrato 😉</a>.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -259,7 +259,7 @@ Qualche consiglio se ancora non sei indeciso:
 
 💬 Sito web dove carichi video porno da altre parti. (E mettere banner nel sito web delle tue offerte)
 
-💬 Sito web come il mio <a href="fun4adult.com">Fun4adult </a> (Dove semplicemente ho messo le offerte in base al paese, facendo così se devo comprare del traffico in base alla nazione mi semplifico la vita)
+💬 Sito web come il mio <a href="https://fun4adult.com"> Fun4adult </a> (Dove semplicemente ho messo le offerte in base al paese, facendo così se devo comprare del traffico in base alla nazione mi semplifico la vita)
 
 💬 Sito web dove vendi (oppure in dropshipping) sex toys e metti i banner.
 
@@ -474,7 +474,7 @@ Potete scrivere una cosa del tipo.
 
 Per fare un riassunto rapido.
 
-⚠️ Iscriversi a <a href="bit.ly/CrakrevenueIscrizione">Crakrevenue</a>
+⚠️ Iscriversi a <a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a>
 
 ⚠️ Scegliere l'offerta che vi piace di più.
 
@@ -482,7 +482,7 @@ Per fare un riassunto rapido.
 
 ⚠️ Metodo Free migliore: Chattare con persone su Facebook e inviare link offerte.
 
-⚠️ Metodo Pagante migliore: Fare una campagna su <a href="bit.ly/TrafficJunkyxxx"> Traffic Junky </a> oppure comprare un account Instagram su <a href="bit.ly/FameSwap"> Fameswap </a>
+⚠️ Metodo Pagante migliore: Fare una campagna su <a href="https://bit.ly/TrafficJunkyxxx"> Traffic Junky </a> oppure comprare un account Instagram su <a href="https://bit.ly/FameSwap"> Fameswap </a>
 
 🔥 Metodo Extra: Incentivare con Rapidworkers.com oppure reclutare persone su Facebook gruppi.
 
