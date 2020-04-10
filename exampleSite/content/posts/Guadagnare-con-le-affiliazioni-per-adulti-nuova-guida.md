@@ -38,7 +38,7 @@ E come sappiamo quasi tutti usano la navigazione in incognito, il che vuol dire 
 
 <h2> COME INIZIARE? </h2>
 
-Inanzitutto bisogna registrarsi su <a href="bit.ly/CrakrevenueIscrizione">Crakrevenue</a>.
+Inanzitutto bisogna registrarsi su <a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a>.
 
 
 Cosa diavolo è CrakRevenue?
