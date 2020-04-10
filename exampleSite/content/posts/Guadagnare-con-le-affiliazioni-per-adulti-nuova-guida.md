@@ -70,9 +70,6 @@ Questo cosa vuol dire? Che se trovate 10 persone che si registrano al giorno son
 I guadagni variano da paese a paese (Di solito gli utenti Americani "valgono di più").
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <h2> Come faccio a prelevare i soldi del mio duro lavoro? 🤔 </h2>
 
 Semplice ci sono diversi metodi per prelevare.
