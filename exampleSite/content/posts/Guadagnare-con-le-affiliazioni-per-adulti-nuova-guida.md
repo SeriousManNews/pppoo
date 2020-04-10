@@ -48,9 +48,9 @@ Ora entriamo in dettaglio con le offerte.
 
 Come potete notare ci sono diverse offerte che pagano diverse cifre.
 
-Le CPA (PPS): CLICK PER ACTION (PAY PER SIGN UP) –> Ovvero sono le offerte che ti fanno guadagnare quando qualcuno si registra immettendo anche la carta di credito o facendo un acquisto (ogni offerta è differente).
+<h2> Le CPA (PPS): CLICK PER ACTION (PAY PER SIGN UP) –> Ovvero sono le offerte che ti fanno guadagnare quando qualcuno si registra immettendo anche la carta di credito o facendo un acquisto (ogni offerta è differente).
 
-Le CPA (DOI) E (SOI)—-> SONO INVECE OFFERTE CHE RICHIEDONO SOLO LA REGISTRAZIONE TRAMITE EMAIL + CONFERMA!
+Le CPA (DOI) E (SOI)—-> SONO INVECE OFFERTE CHE RICHIEDONO SOLO LA REGISTRAZIONE TRAMITE EMAIL + CONFERMA! </h2>
 
 <img src="https://i.ibb.co/6ZPVYWg/crac.png" alt="crac" border="0">
 
@@ -62,8 +62,8 @@ Come sempre consiglio sempre di vedere i dettagli di tutte le offerte!
 
 Questo cosa vuol dire? Che se trovate 10 persone che si registrano al giorno sono ben 35€! Ovvero 1050€ al mese!🥳
 
+I guadagni variano da paese a paese (Di solito gli utenti Americani "valgono di più")m
 
-I guadagni variano da paese a paese (Di solito gli utenti Americani "valgono di più")
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -492,7 +492,6 @@ Mi raccomando per non avere problemi devi bilanciare i click alle offerte, le re
 Bene direi che abbiamo sviscerato più o meno tutto.
 
 Per informazioni non esitare a contattarmi 🔥
-
 
 
 
