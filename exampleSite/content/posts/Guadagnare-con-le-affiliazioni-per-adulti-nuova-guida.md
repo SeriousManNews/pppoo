@@ -58,13 +58,16 @@ Le CPA (DOI) E (SOI)—-> SONO INVECE OFFERTE CHE RICHIEDONO SOLO LA REGISTRAZIO
 
 Come sempre consiglio sempre di vedere i dettagli di tutte le offerte!
 
-<h3> I guadagni per ogni amico che si registra varia da 1€ a 3.50€ per la sola registrazione con email + conferma!! 🤫 </h3>
+<h2> I guadagni per ogni amico che si registra varia da 1€ a 3.50€ per la sola registrazione con email + conferma!! 🤫 </h2 il>
 
 Questo cosa vuol dire? Che se trovate 10 persone che si registrano al giorno sono ben 35€! Ovvero 1050€ al mese!🥳
 
 
 I guadagni variano da paese a paese (Di solito gli utenti Americani "valgono di più")
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <h2> Come faccio a prelevare i soldi del mio duro lavoro? 🤔 </h2>
 
@@ -84,6 +87,7 @@ Sconsiglio vivamente gli Assegni, dato che per esperienza personale mi hanno chi
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
 
 <h2> Si ma come faccio a fare i soldi? 🤔</h2>
 
