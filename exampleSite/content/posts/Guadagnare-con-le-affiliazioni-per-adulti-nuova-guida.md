@@ -395,7 +395,7 @@ Offerta paga 3.50$
 
 1$ da dare all'iscritto da spendere dopo un tot di tempo.
 
-1/1.50$ di profitto pulito! 🤫 </strong>
+1 / 1.50$ di profitto pulito! 🤫 </strong>
 
 
 Come vedete se fatta bene diventa una cosa molto profittevole. </strong>
@@ -408,7 +408,7 @@ Per semplificare questo processo consiglio i microlavoratori!
 
 Sono persone che fanno delle piccole azioni in cambio di denaro!
 
-Un esempio di siti per microworkers è <a href="http://raboninco.com/DShY> Rapidworkers.com </a> quello che uso di più!
+Un esempio di siti per microworkers è <a href="http://raboninco.com/DShY"> Rapidworkers.com </a> quello che uso di più!
 
 
 <img src="https://i.ibb.co/VtFt0Vn/Screenshot-2020-04-10-21-47-39-348-com-android-chrome.jpg">
