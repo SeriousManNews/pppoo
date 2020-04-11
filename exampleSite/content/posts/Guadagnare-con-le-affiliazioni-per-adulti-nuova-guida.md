@@ -20,7 +20,21 @@ Ti consiglio di leggerla fino in fondo (ci sono trucchi extra)
 
 Per qualsiasi domanda scrivimi qui sotto oppure al mio numero 3512256556 🤔✔️ </strong>
 
+<strong> Come funziona? Semplice basta trovare persone che si registrano alle nostre offerte che troviamo su <a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a> ! Basta solo email e password e noi guadagnamo!! </strong> 
 
+Quindi in pratica dobbiamo trovare ref! Però l'altra persona non deve spendere o depistare niente 😉
+
+Ora andiamo a vedere tutte le strategie possibili.
+
+In ogni caso il ragionamento è semplice 
+
+- Ti registri su <a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a> 
+
+- Trovi l'offerta che vuoi iniziare a pubblicizzare!
+
+- Trovi clienti o amici che si registrano (basta email, password e la conferma dell'email!)
+
+- Bingo! Continui così per sempre (le registrazioni sono illimitate)
 
 💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸
 
