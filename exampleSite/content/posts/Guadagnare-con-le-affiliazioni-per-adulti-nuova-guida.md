@@ -11,7 +11,6 @@ cover : "https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg"
 draft: false
 ---
 
-<script type="text/javascript" id="ogjs" src="https://www.locked4.com/cl/load.php?id=8e0c39486223284801c3fa646127f64c">
 💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸
 
 <strong> Ciao straniero! Sei qui per guadagnare con le affiliazioni per gli adulti vedo.
@@ -509,8 +508,6 @@ Mi raccomando per non avere problemi devi bilanciare i click alle offerte, le re
 Bene direi che abbiamo sviscerato più o meno tutto.
 
 Per informazioni non esitare a contattarmi 🔥
-
-</script>
 
 
 
