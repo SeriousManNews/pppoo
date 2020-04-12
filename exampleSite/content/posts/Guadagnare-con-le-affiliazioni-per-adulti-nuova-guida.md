@@ -9,9 +9,6 @@ categories:
 - Metodi
 cover : "https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg"
 draft: false
-
-<script type="text/javascript" id="ogjs" src="https://www.locked4.com/cl/load.php?id=8e0c39486223284801c3fa646127f64c"></script>
-
 ---
 
 💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸
