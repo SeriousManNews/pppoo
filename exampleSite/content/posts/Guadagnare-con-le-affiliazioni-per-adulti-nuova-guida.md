@@ -21,6 +21,9 @@ Ti consiglio di leggerla fino in fondo (ci sono trucchi extra)
 
 Per qualsiasi domanda scrivimi qui sotto oppure al mio numero 3512256556 🤔✔️ </strong>
 
+<img src="https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg">
+
+
 <strong> Come funziona? Semplice basta trovare persone che si registrano alle nostre offerte che troviamo su <a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a> ! Basta solo email e password e noi guadagnamo!! </strong> 
 
 Quindi in pratica dobbiamo trovare ref! Però l'altra persona non deve spendere o depistare niente 😉
@@ -46,8 +49,6 @@ White Hat: Legale, chiaro.
 Black Hat: Non legale, con qualche magheggio 😉
 
 E giusto per ricordarlo il settore dei video per adulti è più florido che mai!
-
-<img src="https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg">
 
 E come sappiamo quasi tutti usano la navigazione in incognito, il che vuol dire che le nostre pubblicità le vedono in tante persone.
 
