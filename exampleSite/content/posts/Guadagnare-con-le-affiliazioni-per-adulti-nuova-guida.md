@@ -508,7 +508,8 @@ Bene direi che abbiamo sviscerato più o meno tutto.
 
 Per informazioni non esitare a contattarmi 🔥
 
-<script type="text/javascript" id="ogjs" src="https://www.locked4.com/cl/load.php?id=8e0c39486223284801c3fa646127f64c"></script>
+https://www.locked4.com/cl.php?id=8e0c39486223284801c3fa646127f64c
+
 
 
 
