@@ -1,6 +1,6 @@
 ---
-title: "Guadagnare con video per adulti [Ottobre 2019] "
-date: 2020-03-07
+title: "Guadagnare con video per adulti [Maggio 2020] "
+date: 2020-05-04
 tags:
 - Metodi
 - Netlify
@@ -20,16 +20,9 @@ draft: false
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 
+<h2> COME DIVENTARE UNA PORNOSTAR? <h2>
 
-Ehi gente, sono diventato molto popolare su BHW forum [forum inglese di guadagni online] con questo metodo.
-
-Quando ho scritto questo metodo su BHW forum ho ottenuto più di 100 mail di sostegno in più o meno 3-4 giorni.
-
-Un sacco di gente mi ha contattato per questo metodo, hanno iniziato a fare i soldi con questo metodo nella loro prima settimana!
-
-Questo è anche uno dei primi metodi che mi ha fatto fare un po ‘di soldi online. [soldi veri! non centesimi]
-
-Ora mi ci sto su solo 1-2 ore / settimana su questo metodo, perché ho molti siti e molte cosa da fare, e il giorno è davvero corto, ho pagato alcune persone a fare l’upload per me.
+Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente (in questo caso moolto divertente ahah)
 
 Alcuni di voi ragazzi probabilmente sono a conoscenza di questo metodo e molti di voi stanno facendo soldi con questo trucco.
 
@@ -51,31 +44,22 @@ Ora come ora guadagno circa dai 70 ai 150€ al giorno con questo metodo e il 90
 
 E ora, che cosa dovrai fare nelle prossime settimane?
 
-– Scaricare video porno [MEGLIO SE REGISTRATI IN CAM]
+– Aprire il tuo sito web!
 
-– Senza sito sul video!
+– Registrare i tuoi video erotici
 
-– E senza video di intro!
+– Caricaricarli sia sul tuo sito web che su Pornhub (Con la sola iscriziona a PornHub come pornostar guadagni con tutta la loro rete online, comprende circa 10 siti web.)
 
-– Registrare un dominio e hosting!
-
-– Caricare i video con il tuo dominio bello in vista!
+– Mettere le pubblciità sul tuo sito web (Basta farlo una volta e dopo va in automatico, mettere banner laterali o sotto i video a te la scelta)
 
 – FARE SOLDI!
 
+Ora ti starai chiedendo a cosa serve aprirmi un sito web? E' FONDAMENTALE per costruirsi un brand, inoltre si guadagna molto bene.
+
+Ma non preoccuparti ti spiegherò alcuni passi.
+
 <h2>STEP 1: CREARE ACCOUNT NEI MAGGIORI SITI PORNOGRAFICI!</h2>
 
-Uno dei migliori siti per questo metodo è sicuramente <a href="http://xvideos.com">xvideos.com</a>
-
-Di solito non fanno molte storie e se anche dovessero cancellare i vostri video basta ricaricarli!
-
-<img src="https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg" alt="kemp-london-hire-xxx" border="0">
-
-Si può letteralmente fare un account ogni sito porno su Internet che permette di caricare video porno!
-
-<a href="http://adf.ly/1kGl3S" target="_blank" rel="noopener">I MIGLIORI SITI PORNO!</a> Andiamo qua e iniziamo a scaricare qualche video!
-
-<h2>STEP 2: SCARICARE I VIDEO PORNO!</h2>
 
 Ora, possiamo iniziare con porno.
 
@@ -159,16 +143,12 @@ Ora le persone che incuriositi dai "vostri" video andranno a cercare camwithme.c
 
 <h2>STEP 5: INIZIA A CARICARE I VIDEO E GUADAGNA!!</h2>
 
-Di solito quando scaricate i video sono chiamati “Tina is having sex for first time” o cose del genere!
 
 Ecco noi invece dobbiamo cambiare nome al titolo, dobbiamo renderlo più “attraente” usiamo qualche titolo “fetish” ad esempio [Tina is having sex for first time] —> Lo chiameremo [Me and my stepdaughter] o qualcosa del genere, basta farvi un giro tra i video più famosi e vedere che titoli hanno.
 
 Ultimissimo punto, aggiungere il nostro dominio!!
 
 PS: CON <a href="https://www.bluehost.com/track/seriousman/" target="_blank">BLUEHOSTING</a> HAI SIA DOMINIO CHE HOSTING A UN BUON PREZZO!
-
-
-<a href="https://t.hrtye.com/c0vk7yph34?url_id=0&aff_id=44289&offer_id=3873&bo=2753,2754,2755,2756&po=6456"><img src="https://i.ibb.co/YX2301C/4club-ppl-soi.jpg" alt="4club-ppl-soi" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>image uploader</a><br />
 
 Per esempio:
 
@@ -181,11 +161,6 @@ Questo è l’esempio di uno dei miei video:
 
 Come potete notare più di 280.000 visualizzazioni! OVVIAMENTE NON TUTTI SONO ANDATI AL SITO 666cams.net MA UNA BUONA PARTE DI LORO LO HA FATTO, SARA’ PER IL TITOLO ACCATTIVANTE O PER IL VIDEO IN SE!
 
-<h2> ATTENZIONE </h2>
-
-Ultimamente i siti porno cancellano spesso i video con il sito nel titolo ad esempio: Tina is hot - altro su MYDOMAIN.COM
-
-<h2> Consiglio di mettere la filigrana nel video direttamente </h2>
 
 Cos'è la filigrana? In pratica è una scritta o un logo all'interno del video stesso, questo di solito serve a rivendicare i diritti del video, ma noi lo useremo per indirizzare il traffico sul sito della vostra offerta!
 
@@ -193,10 +168,6 @@ E si è pronti a fare soldi ora!
 Io non promuovo i miei video con gli annunci , Xvideo.com è il più grande sito porno del mondo quindi non è necessario per iniziare [magari in futuro], SOPRATTUTTO IL VIDEO SARA’ RUBATO DA CENTINA DI ALTRE PERSONE QUINDI SE ABBIAMO USATO LA IL WATERMARK OVVERO SCRIVERE IL NOSTRO DOMINIO ALL’INTERNO DEL VIDEO CI FARANNO PUBBLICITA’ GRATUITA PER SEMPRE!!!
 
 Nella mia prima settimana ho fatto 1244 click e 36 ISCRIZIONE ovvero una percentuale di circa 1 iscrizione ogni 34 visite! Con un incasso di 72,40 dollari!
-
-Ora immaginate di avere 10 video che vi portano 1000 visualizzazioni al giorno ciascuno, sono 10.000 visualizzazioni con 300 registrazioni sono circa 700 dollari al giorno!! Ovviamente per arrivare a questi numeri dovrete caricare molti video ma è possibile!!
-
-Vi ricordo inoltre che se un video dovesse andare virale.. beh BINGO!! 
 
 Per qualsiasi info contattatemi!
 
