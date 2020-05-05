@@ -20,7 +20,7 @@ draft: false
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 
-<h2> COME DIVENTARE UNA PORNOSTAR? <h2>
+<h2> COME DIVENTARE UNA PORNOSTAR? </h2>
 
 Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente (in questo caso moolto divertente ahah)
 
