@@ -71,9 +71,7 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ❌ Scadenza: 30/05/2020 
 
-✔️ Codice Bonus: Usa il codice-----> <a href="https://trk.apperol.com/load/?campaign=44347&guid={YOUR_CLICKID}&placement={YOUR_SUBPUBLISHERID}
-
-">PRENDI IL TUO BONUS HYPE!</a>
+✔️ Codice Bonus: Usa il codice-----> <a href="https://trk.apperol.com/load/?campaign=44347&guid={YOUR_CLICKID}&placement={YOUR_SUBPUBLISHERID}">PRENDI IL TUO BONUS HYPE!</a>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
