@@ -51,6 +51,31 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 
 ✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">PRENDI IL TUO BONUS YAP!</a>
 
+<h2>👇 Con Deposito👇 </h2>
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h2> HYPE </h2>
+
+  <img src="https://i.ibb.co/wNF9Srp/1-10-640x342.jpg" alt="Hype BONUS" border="0" width="300">
+  
+  Hype è probabilmente la prepagata che da il bonus maggiore a fronte del minor investimento.
+  La carta del gruppo Banca Sella offre servizi vantaggiosi tra cui Canone gratuito annuale oltre ad un rilascio gratuito della carta (dotata di IBAN).
+  
+✔️ Bonus: 10€ alla prima ricarica (Va bene anche 1€)
+
+🕑 Tempo di accredito: Entro 24 ore.
+
+💌 Invita amici: 10€ per ogni amico invitato alla prima transazione. (Dopo che inviti 5 amici ricevi 50€ in bonus Amazon, dopo di chè ogni 100 amici invitati 250€ sempre in buoni Amazon.)
+
+❌ Scadenza: 30/05/2020 
+
+✔️ Codice Bonus: Usa il codice-----> <a href="https://trk.apperol.com/load/?campaign=44347&guid={YOUR_CLICKID}&placement={YOUR_SUBPUBLISHERID}
+
+">PRENDI IL TUO BONUS HYPE!</a>
+
+
 -------------------------------------------------------------------------------------------------------------------------------------
  
  <h2> WINGO CARD  </h2>
@@ -174,26 +199,6 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 <a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/kindle/ku/associates/1132121_it_kindle_unlimited_ku_affiliate_it_234x60rev._CB471795445_.jpg" alt="Image" height="120" width="900"> </a>
 
 
----------------------------------------------------------------------------------------------------------------------------------------
-<h2>👇 Con Deposito👇 </h2>
-
-
-<h2> HYPE </h2>
-
-  <img src="https://i.ibb.co/wNF9Srp/1-10-640x342.jpg" alt="Hype BONUS" border="0" width="300">
-  
-  Hype è probabilmente la prepagata che da il bonus maggiore a fronte del minor investimento.
-  La carta del gruppo Banca Sella offre servizi vantaggiosi tra cui Canone gratuito annuale oltre ad un rilascio gratuito della carta (dotata di IBAN).
-  
-✔️ Bonus: 10€ alla prima ricarica (Va bene anche 1€)
-
-🕑 Tempo di accredito: Entro 24 ore.
-
-💌 Invita amici: 10€ per ogni amico invitato alla prima transazione. (Dopo che inviti 5 amici ricevi 50€ in bonus Amazon, dopo di chè ogni 100 amici invitati 250€ sempre in buoni Amazon.)
-
-❌ Scadenza: 30/05/2020 
-
-✔️ Codice Bonus: Usa il codice-----> <a href="http://bit.ly/bonusHype">PRENDI IL TUO BONUS HYPE!</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
