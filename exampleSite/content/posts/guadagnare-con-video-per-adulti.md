@@ -10,16 +10,6 @@ cover : "https://i.ibb.co/Jzy9Zth/29243e9.jpg"
 draft: false
 ---
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-<h2> ATTENZIONE GUIDA OBSOLETA! LEGGI LA NUOVA GUIDA! </h2>
-
-<a href="https://seriousman.it/posts/guadagnare-con-le-affiliazioni-per-adulti-nuova-guida/"> LEGGI LA NUOVA GUIDA ⚠️🔥 </a>
-
-
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-
-
 <h2> COME DIVENTARE UNA PORNOSTAR? </h2>
 
 Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente (in questo caso moolto divertente ahah)
