@@ -10,6 +10,8 @@ cover : "https://i.ibb.co/Jzy9Zth/29243e9.jpg"
 draft: false
 ---
 
+<img src="https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg">
+
 <h2> COME DIVENTARE UNA PORNOSTAR? </h2>
 
 Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente (in questo caso moolto divertente ahah)
