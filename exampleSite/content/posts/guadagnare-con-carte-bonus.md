@@ -56,6 +56,27 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
+<h2> FLOWE </h2>
+
+  <img src="https://i.ibb.co/nCHCn0W/flowe00001-1280x720.jpg" alt="FLOWE BONUS" border="0" width="300">
+  
+ Flowe ti regala un buono da 15€, per ricevere il bonus basta seguire questi semplici passaggi.
+ Registrarsi, mettere il codice bonus: LALLAABBA5335 e caricare 1€ e voilà riceverete 150 gemme che potete cambiare in un buono amazon da 15€
+  
+✔️ Bonus: 15€ in buoni amazon.
+
+🕑 Tempo di accredito: Immediato.
+
+💌 Invita amici: 10€ in buoni amazon
+
+❌ Scadenza: ------- 
+
+✔️ Codice Bonus: Usa il codice-----> LALLAABBA5335
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 <h2> HYPE </h2>
 
   <img src="https://i.ibb.co/wNF9Srp/1-10-640x342.jpg" alt="Hype BONUS" border="0" width="300">
