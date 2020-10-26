@@ -41,13 +41,13 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
  Probailmente la wallet app più utilizzata in questo periodo, decisamente quella con più bonus e vantaggi.
  YAP è un'app per pagare senza contanti, target che va dai 12 anni in su. È firmata Nexi e permette di pagare via smartphone in negozio  e online dotata di tecnologia NFC.
  
-✔️ Bonus: 10€ senza deposito iniziale.
+✔️ Bonus: 5€ cashback.
 
 🕑 Tempo di accredito: Fino a 24h
 
-💌 Invita amici: 10€ per ogni amico invitato (deve effettuare almeno una ricarica da 5€)
+💌 Invita amici: 10% di cashback fino ad un massimo di 150€
 
-❌ Scadenza: 16/03/2020 
+❌ Scadenza: 02/11/2020 
 
 ✔️ Codice Bonus: Usa il codice-----> ABDELAMAJIDELO <a href="http://bit.ly/bonusYap">PRENDI IL TUO BONUS YAP!</a>
 
@@ -63,41 +63,15 @@ Di solito i Bonus si differenziano in due categorie, con <strong> deposito </str
   Hype è probabilmente la prepagata che da il bonus maggiore a fronte del minor investimento.
   La carta del gruppo Banca Sella offre servizi vantaggiosi tra cui Canone gratuito annuale oltre ad un rilascio gratuito della carta (dotata di IBAN).
   
-✔️ Bonus: 10€ alla prima ricarica (Va bene anche 1€)
+✔️ Bonus: Nessun bonus disponibile al momento.
 
 🕑 Tempo di accredito: Entro 24 ore.
 
-💌 Invita amici: 10€ per ogni amico invitato alla prima transazione. (Dopo che inviti 5 amici ricevi 50€ in bonus Amazon, dopo di chè ogni 100 amici invitati 250€ sempre in buoni Amazon.)
+💌 Invita amici: Nessun bonus disponibile al momento.
 
-❌ Scadenza: 30/05/2020 
+❌ Scadenza: ------- 
 
 ✔️ Codice Bonus: Usa il codice-----> <a href="https://trk.apperol.com/load/?campaign=44347&guid={YOUR_CLICKID}&placement={YOUR_SUBPUBLISHERID}">PRENDI IL TUO BONUS HYPE!</a>
-
-
--------------------------------------------------------------------------------------------------------------------------------------
- 
- <h2> WINGO CARD  </h2>
- 
- <img src="https://i.ibb.co/gvnM2yq/phone-desktop-samhnr.png" alt="WINGO CARD BONUS" border="0" width="300">
- 
-Wingo card ancora in early access, quindi bisogna solo aspettare che esca nel Play Store/ App Store.
-In ogni caso ci si può gia iscrivere e prenotarsi oltre al fatto che si può gia iniziare a invitare amici e ottenere il bonus!
-
-Wingo dalle premesse sembra un ottima opportunità, pagamento con NFC, personalizzazione della carta  (presumo gratuita, vedremo più avanti) e la possibilità di guadagnare facendo dei minilavori con l'app stessa.
-
- <img src="https://i.ibb.co/F4PJx3j/screenshot-wingocard-com-2020-03-14-20-24-32.png" alt="WINGO CARD BONUS" border="0" width="300">
-
- 
-✔️ Bonus: 5€ senza deposito iniziale
-
-🕑 Tempo di accredito: XXX.
-
-💌 Invita amici: 5€ per ogni amico invitato
-
-❌ Scadenza: XX/XX/2020 
-⚠️
-✔️ Codice Bonus: Usa il codice-----> ⚠️Ancora non disponibile in Europa.⚠️
-
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -111,13 +85,13 @@ Wingo dalle premesse sembra un ottima opportunità, pagamento con NFC, personali
  Per usufruire dell'app serve obbligatoriamente il conto corrente.
  Ricarica Cash Utilizza i contanti per ricaricare Bill nei punti vendita SisalPay.
  
-✔️ Bonus: 10€ senza deposito iniziale, (5€ dalla app + 5€ con il codice bonus)
+✔️ Bonus: 5€ di bonus benvenuto
 
 🕑 Tempo di accredito: Fino a 3 giorni.
 
 💌 Invita amici: 5€ per ogni amico invitato
 
-❌ Scadenza: 30/09/2020 
+❌ Scadenza: ----------- 
 
 ✔️ Codice Bonus: Usa il codice-----> ABDELO <a href="http://bit.ly/bonusBill">PRENDI IL TUO BONUS BILL!</a>
  
@@ -136,9 +110,9 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 🕑 Tempo di accredito: Fino a 3 giorni.
 
-💌 Invita amici: 20€ per ogni amico invitato !FINO AL 27/03!
+💌 Invita amici: 5€ per ogni amico invitato che completa la registrazione
 
-❌ Scadenza: XX/XX/2020 
+❌ Scadenza: -------------
 
 ✔️ Codice Bonus: Usa il codice-----> ABDELMAJIDE <a href="http://bit.ly/bonusSatispay">PRENDI IL TUO BONUS SATISPAY!</a>
 
@@ -166,7 +140,7 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 💌 Invita amici: 5 DUK+ per ogni amico invitato
 
-❌ Scadenza: XX/XX/2020 
+❌ Scadenza: --------------
 
 ✔️ Codice Bonus: Usa il codice-----> R26-T8Y <a href="http://bit.ly/bonusDUK">PRENDI IL TUO BONUS DUK!</a>
 
@@ -207,13 +181,13 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
   Monese è la carta prepagata che uso personalmente di più, zero spese di ricarica e perlievo gratiuto in tutti gli ATM.
   Targata MasterCard, Monese offre la possibilità anche di richiedere la prepagata (In questo momento la basic costa 5€)
   
-✔️ Bonus: 5€ alla prima transazione (Non c'è un minimo puoi anche spendere 0.15cent) + 15€ se superate i 500€ di spesa.
+✔️ Bonus: Nessun bonus disponibile al momento.
 
 🕑 Tempo di accredito: Entro 24 ore.
 
-💌 Invita amici: 5€ per ogni amico invitato alla prima transazione.
+💌 Invita amici: Nessun bonus disponibile al momento.
 
-❌ Scadenza: XX/XX/2020 
+❌ Scadenza: -----------------------------
 
 ✔️ Codice Bonus: Usa il codice-----> ABDEL365  <a href="http://bit.ly/bonusMonese">PRENDI IL TUO BONUS MONESE!</a>
 
@@ -272,7 +246,12 @@ Altri servizi sono: Ricariche telefoniche, PagoPA, Bollettini e pagare Bolli.
 
 ❌ Scadenza: XX/XX/2020 
 
-✔️ Codice Bonus: E' obbligatorio essere invitati tramite numero di telefono, per usufruire del bonus contattatemi via Facebook: <a href="http://bit.ly/bonusVerse">PRENDI IL TUO BONUS VERSE!</a> </strong>
+✔️ Codice Bonus: E' obbligatorio essere invitati tramite numero di telefono, per usufruire del bonus contattatemi su telegram al numero: 3533358885
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
   
