@@ -92,8 +92,6 @@ Una volta che hai il sito è tutto guadagno, sia da PornHub che dal tuo sito Web
 
 Se vuoi far fare ad un esperto ---> <a href="https://www.seriousmedia.it" target="_blank"> SERIOUSMEDIA </a>
 
-Preparazione Sito web + Account + Tema [Porno/Portafolio] a soli 100€
-
 Se ti serve una mano e non ci capisci niente scrivimi su telegram: tel:+393533358885
 
 <h2> ULTIMO STEP </h2>
