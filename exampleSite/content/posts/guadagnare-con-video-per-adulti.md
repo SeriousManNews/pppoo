@@ -307,7 +307,7 @@ Ecco ora dovresti avere più o meno un idea.
 ✔️ Comune.
 
 
-⚠️ L'esempio perfetto per il traffico per adulti secondo me è <a href="bit.ly/TrafficJunkyxxx"> TrafficJunky </a>.
+⚠️ L'esempio perfetto per il traffico per adulti secondo me è <a href="https://trafficjunky.com/sign-up/advertiser?source=referral&referralCode=2a88bfa25cd1ef54bfcc"> TrafficJunky </a>.
 
 Sapete tutte quelle pubblicità che vedete su YouPorn, Pornhub ecc nei bordi?
 
