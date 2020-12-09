@@ -24,6 +24,9 @@ Voglio spiegarvi il metodo passo dopo passo per i neofiti per mostrare loro come
 
 Ora iniziamo, ma non posso promettere risultati eccellenti SE NON SI LAVORA ALMENO 2-3 ORE AL GIORNO nelle vostre prime 2-3 settimane!
 
+
+<a href="https://www.amazon.it/gp/dmusic/promotions/AmazonMusicUnlimited?tag=sketshops-21"> <img src="https://images-eu.ssl-images-amazon.com/images/G/29/associates/maitri/banner/amazon_it_musica_234x60.gif" alt="Image" height="240" width="900"> </a>
+
 <h2>COS’E’ STO METODO? DI COSA SI TRATTA?</h2>
 
 💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸
