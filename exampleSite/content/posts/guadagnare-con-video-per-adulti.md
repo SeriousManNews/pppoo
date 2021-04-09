@@ -1,6 +1,6 @@
 ---
 title: "Guadagnare con video per adulti [Novembre 2020] "
-date: 2020-11-06
+date: 2021-04-8
 tags:
 - Metodi
 - Netlify
@@ -37,7 +37,7 @@ Bene segui questa maxi guida e farai parecchi soldini💸
 
 Ti consiglio di leggerla fino in fondo (ci sono trucchi extra)
 
-Per qualsiasi domanda scrivimi su telegram  3533358885 🤔✔️ </strong>
+Per qualsiasi domanda scrivimi su telegram  3512675917 🤔✔️ </strong>
 
 <img src="https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg">
 
