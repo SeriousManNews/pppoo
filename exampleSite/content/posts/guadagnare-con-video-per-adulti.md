@@ -16,7 +16,7 @@ draft: false
 
 Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente (in questo caso moolto divertente ahah)
 
-Se ti serve una mano e non ci capisci niente scrivimi su telegram: tel:+393533358885
+Se ti serve una mano e non ci capisci niente scrivimi su telegram: tel:+393512675917 
 
 Alcuni di voi ragazzi probabilmente sono a conoscenza di questo metodo e molti di voi stanno facendo soldi con questo trucco.
 
@@ -510,7 +510,7 @@ Per fare un riassunto rapido.
 
 ⚠️ Iscriversi a <a href="https://bit.ly/CrakrevenueIscrizione"> Crakrevenue </a>
 
-⚠️ Scegliere l'offerta che vi piace di più.
+⚠️ Scegliere l'offerta che vi piace di più. 
 
 ⚠️ Iniziare a pubblicizzarla in giro.
 
