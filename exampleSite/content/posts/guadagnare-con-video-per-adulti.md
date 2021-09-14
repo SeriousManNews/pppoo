@@ -16,7 +16,7 @@ draft: false
 
 Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente (in questo caso moolto divertente ahah)
 
-Se ti serve una mano e non ci capisci niente scrivimi su telegram: tel:+393512675917 
+Se ti serve una mano e non ci capisci niente scrivimi su telegram: tel:+393533639404
 
 Alcuni di voi ragazzi probabilmente sono a conoscenza di questo metodo e molti di voi stanno facendo soldi con questo trucco.
 
@@ -37,7 +37,7 @@ Bene segui questa maxi guida e farai parecchi soldini💸
 
 Ti consiglio di leggerla fino in fondo (ci sono trucchi extra)
 
-Per qualsiasi domanda scrivimi su telegram  3512675917 🤔✔️ </strong>
+Per qualsiasi domanda scrivimi su telegram +393533639404 🤔✔️ </strong>
 
 <img src="https://i.ibb.co/C1NT7D0/kemp-london-hire-xxx.jpg">
 
@@ -526,4 +526,4 @@ Mi raccomando per non avere problemi devi bilanciare i click alle offerte, le re
 
 Bene direi che abbiamo sviscerato più o meno tutto.
 
-Per informazioni non esitare a contattarmi 🔥
+Per informazioni non esitare a contattarmi+393533639404 🔥
