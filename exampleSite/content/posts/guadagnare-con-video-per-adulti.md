@@ -1,6 +1,6 @@
 ---
-title: "Guadagnare con video per adulti [Novembre 2020] "
-date: 2021-04-8
+title: "Guadagnare con video per adulti [Settembre 2021] "
+date: 2021-09-14
 tags:
 - Metodi
 - Netlify
