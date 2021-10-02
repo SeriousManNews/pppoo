@@ -18,7 +18,7 @@ Probabilmente è il sogno di tanti lavorare fancendo qualcosa di divertente, e l
 
 Sono anni che siamo in questo settore, abbiamo tutte le informazioni e i consigli necessari per iniziare questa avventura.
 
-Se vuoi subito iniziare a guadagnare con i video per adulti contattami su Telegram: https://t.me/Giugiuh
+Se vuoi subito iniziare a guadagnare con i video per adulti contattami su Telegram: https://t.me/assistenzaffiliati
 
 
 
